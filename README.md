@@ -1,5 +1,5 @@
 ## CSCE 416: Introduction to Computer Networks
-Code Written for _ _ _ CSCE _ _ _ Class for _ _ _ of _ _ _.
+Code Written for Dr. Srihari Nelakuditi CSCE 416 class for Fall of 2021.
 
 **Code for Archival Purposes Only**
 
