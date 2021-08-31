@@ -74,3 +74,8 @@ $d_p = d/s$
 
 2. Suppose two hosts, A and B, are separated by 20,000 kilometers and are connected by a direct link of R  = 2 Mbps. Suppose the propagation speed over the link is 2.5 x 108 meters/sec. Consider sending a file of 800,000 bits from Host A to Host B. Suppose the file is sent continuously as one large message. What is the maximum number of bits that will be in the link at any given time?
 > Answer: Propogated delay = 20000/2.5E5 = 0.08 seconds, bits in transit = 0.08 * 2*10^6 = 160,000 bits
+
+Bottleneck link is the link on end-end path that constrains end-end throughput
+
+
+,
