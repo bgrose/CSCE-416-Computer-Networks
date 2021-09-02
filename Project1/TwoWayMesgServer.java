@@ -48,33 +48,25 @@ public class TwoWayMesgServer {
 
 			// Keep doing till client sends end-of-file (EOF)
 			while (true) {
-                // Read a line from the client
-				String line = fromClientReader.readLine();
+				// Read a line from the client
+				String readline = fromClientReader.readLine();
 
 				// If we get null, it means client sent EOF
-				if (line == null) {
+				if (readline == null) {
 					System.out.println("Client closed connection");
 					break;
 				}
-				
+
 				// Print the line received from client
-				System.out.println("Client: " + line);
-			
+				System.out.println("Client: " + readline);
 
-                // Read a line from the keyboard
-                String sendLine = fromUserReader.readLine();
-
-                // If we get null, it means user is done
-                if (sendLine == null) {
-                    System.out.println("Closing connection");
-                    break;
-                }
-
-                // Send the line to the client
-                toClientWriter.println(sendLine);
+				// Read a line from the keyboard
+				String sendLine = fromUserReader.readLine();
+				// Send the line to the client
+				toClientWriter.println(sendLine);
 			}
 			// close the client socket and exit
-            toClientWriter.close();
+			toClientWriter.close();
 			clientSock.close();
 		} catch (Exception e) {
 			// print the exception message
