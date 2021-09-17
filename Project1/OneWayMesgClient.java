@@ -1,3 +1,4 @@
+package Project1;
 /*
  * Implementation of a simple client in java
  * By Srihari Nelakuditi for CSCE 416
@@ -34,8 +35,7 @@ public class OneWayMesgClient {
 			Socket sock = new Socket(args[0], Integer.parseInt(args[1]));
 			System.out.println("Connected to server at " + args[0] + ":" + args[1]);
 
-			// Prepare to read from server
-			BufferedReader fromServerReader = new BufferedReader(new InputStreamReader(sock.getInputStream()));
+			
 
 			// Prepare to write to server with auto flush on
 			PrintWriter toServerWriter = new PrintWriter(sock.getOutputStream(), true);

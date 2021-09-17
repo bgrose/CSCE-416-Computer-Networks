@@ -1,3 +1,4 @@
+package Project1;
 /*
  * Implementation of a simple server in java
  * By Srihari Nelakuditi for CSCE 416
@@ -42,12 +43,7 @@ public class OneWayMesgServer {
 					new InputStreamReader(clientSock.getInputStream()));
 			
 			// Prepare to write to client with auto flush on
-			PrintWriter toClientWriter =
-					new PrintWriter(clientSock.getOutputStream(), true);
-
-			// Prepare to read from keyboard
-			BufferedReader fromUserReader = new BufferedReader(
-					new InputStreamReader(System.in));
+			
 
 			// Keep doing till client sends end-of-file (EOF)
 			while (true) {
