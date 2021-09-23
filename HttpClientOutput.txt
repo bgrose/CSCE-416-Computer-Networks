@@ -1,0 +1,830 @@
+Temporarily Redirected to: https://sc.edu<!DOCTYPE HTML>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--><html lang="en" class="no-js"><!--<![endif]-->
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<title>University of South Carolina</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="The University of South Carolina is home to more than 200 years of history and tradition, rising from a single building in 1805 on what would become the heart of the campus, the Horseshoe.">
+	<meta name="keywords" content="University of South Carolina, usc, UofSC, scdotedu, gamecocks, columbia">
+	<meta property="og:url" content="https://sc.edu/">
+	<meta property="og:title" content="University of South Carolina" />
+	<meta property="og:description" content="The University of South Carolina is home to more than 200 years of history and tradition, rising from a single building in 1805 on what would become the heart of the campus, the Horseshoe." />
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="og:image" content="https://www.sc.edu/imgs/banners/banner_south_carolina.jpeg">
+	<meta property="fb:app_id" content="410910718010">
+	<meta name="twitter:site" content="@UofSC">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="preload" href="https://sc.edu/_global_resources/fonts/BerlingskeSansXCn-XBd.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://sc.edu/_global_resources/fonts/BerlingskeSans-XBd.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://sc.edu/_global_resources/fonts/BerlingskeSans-Md.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://sc.edu/_global_resources/fonts/BerlingskeSerif-Bd.woff2" as="font" type="font/woff2" crossorigin="">
+<style>
+	@font-face {
+		font-family:'Berlingske Sans';
+		src:	url('https://sc.edu/_global_resources/fonts/BerlingskeSans-Md.woff2') format('woff2'),
+				url('https://sc.edu/_global_resources/fonts/BerlingskeSans-Md.woff') format('woff');
+		font-weight: 500;
+		font-style: normal;
+		font-display: swap;
+	}
+	@font-face {
+		font-family:'Berlingske Sans';
+		src:	url('https://sc.edu/_global_resources/fonts/BerlingskeSans-XBd.woff2') format('woff2'),
+				url('https://sc.edu/_global_resources/fonts/BerlingskeSans-XBd.woff') format('woff');
+		font-weight: 800;
+		font-style: normal;
+		font-display: swap;
+	}
+	@font-face {
+		font-family:'Berlingske Sans Extracondensed';
+		src:	url('https://sc.edu/_global_resources/fonts/BerlingskeSansXCn-XBd.woff2') format('woff2'),
+				url('https://sc.edu/_global_resources/fonts/BerlingskeSansXCn-XBd.woff') format('woff');
+		font-weight: 800;
+		font-style: normal;
+		font-display: swap;
+	}
+	@font-face {
+		font-family:'Berlingske Serif';
+		src:    url('https://sc.edu/_global_resources/fonts/BerlingskeSerif-Bd.woff2') format('woff2'),
+				url('https://sc.edu/_global_resources/fonts/BerlingskeSerif-Bd.woff') format('woff');
+		font-weight: 700;
+		font-display: swap;
+	}
+</style>	
+	<link rel="stylesheet" href="/_resources/css/foundation.min.css">
+	<link rel="stylesheet" href="/_resources/css/style.css">
+	<link rel="stylesheet" href="/_resources/css/jquery.fancybox.css">
+	
+	<style>
+            .main-container {
+                position: relative;
+                margin-top: 55px
+            }
+		
+			.uofsc-news {
+				display: inline-block;
+				background-color: var(--color-tertiary);
+				padding: 2rem 0;
+				margin-top: 2.5rem;
+			}
+			@media only screen and (min-width: 48em) {
+				.uofsc-news { display: block; margin: 0; }	
+			}
+			.uofsc-news.mod-dark {
+				background-color: var(--color-secondary);
+				color: var(--color-tertiary);
+			}
+				.uofsc-news.mod-dark * {
+					color: var(--color-tertiary);
+				}
+				.uofsc-news.mod-dark a { text-decoration: underline; }
+				.uofsc-news.mod-dark a:after { display: inline-block; text-decoration: none; }
+				.uofsc-news.mod-dark .grid.mod-news .category { color: #a2a2a2; }
+		
+        		.uofsc-news_head {
+					text-align: center;
+					font-family: "Berlingske Sans Extracondensed", "Impact", sans-serif;
+					font-weight: 800;
+					letter-spacing: 1px;
+					font-size: min(8vw, 50px);
+					margin-top: 0;
+					margin-bottom: 2rem;
+				}  
+		
+				.uofsc-news .view-all {
+					display: block;
+					font-family: "Berlingske Sans Extracondensed", "Impact", sans-serif;
+					font-weight: 800;
+					letter-spacing: 1px;
+					text-transform: uppercase;
+					text-align: right;
+					border-top: 2px solid var(--color-silver);
+					padding-top: .5rem;
+					float: none;
+					font-size: inherit;
+					margin-top: 0;
+				}
+				.uofsc-news .view-all:after { color: #73000a; }
+		
+			.grid a:hover, .grid a:focus { background-color: transparent; }
+		
+			.grid.mod-news img {
+				margin-bottom: 1rem;
+			}
+			@media only screen and (min-width: 48em) {
+				.grid.mod-news img {
+					object-fit: cover;
+					min-height: 250px;
+				}
+			}
+			.grid.mod-news .li-head {
+				font-size: 1.125rem;
+				margin: 0;
+			}
+			.grid.mod-news .li-head + .li-head { margin-top: 1rem; }
+		
+			.uofsc-news .li-head a.new-window:after {
+				content: '';
+				padding-left: 0;
+			}
+			.uofsc-news.mod-dark a.new-window:after {
+				filter: brightness(0) saturate(100%) invert(93%) sepia(100%) saturate(0%) hue-rotate(67deg) brightness(101%) contrast(103%);
+			}
+			.grid.mod-news .category {
+				font-family: "Berlingske Sans Extracondensed", "Impact", sans-serif;
+				font-weight: 800;
+				letter-spacing: 1px;
+				font-size: 16px;
+				color: #5C5C5C;
+				text-transform: uppercase;
+				margin-bottom: 0;
+			}
+			.grid.mod-news .li-text {
+				padding: 0;
+			}
+			@media only screen and (min-width:48em) {
+				.grid.mod-news .li-text { margin-bottom: 1rem; }
+			}
+				.grid.mod-news .li-sub {
+					font-size: .875rem;
+				}
+		
+			.full-width-hero.mod-shallow .full-width-hero_img {
+				height: calc(65vh - 115px);
+				background-position: center;
+			}
+		
+			@media only screen and (min-width: 60em) {
+				.full-width-hero.mod-shallow .full-width-hero_img {
+					height: calc(80vh - 115px);
+				}
+			}
+
+			.full-width_hero-text {
+				--vertical-pos: 15%;
+			}
+		
+			.full-width-hero.mod-headline .full-width-hero_header .mod-small {
+				letter-spacing: 2.5px;
+			}
+		
+			.photo-grid.mod-homepage {
+				
+				padding: 1rem 0; 
+			}
+		
+			@media only screen and (min-width: 60em) {
+				.photo-grid.mod-homepage {
+					grid-template-columns: repeat(8, 1fr);
+				}
+			}
+		
+			.photo-grid.mod-alt.mod-homepage li:nth-child(1) {
+				justify-content: initial;
+				grid-row: 4;
+			}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(1) .photo-grid_body {
+					padding-top: 1.5rem;
+				}
+		
+			@media only screen and (min-width: 48em) {
+				.photo-grid.mod-alt.mod-homepage li:nth-child(1) {
+					grid-column: 2;
+					grid-row: 2;
+				}
+			}    
+		
+			@media only screen and (min-width: 60em) {
+				.photo-grid.mod-alt.mod-homepage li:nth-child(1) {
+					grid-column: 5 / 8;
+					grid-row: 2 / -1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(2) {
+					grid-column: 1 / span 2;
+					grid-row: 1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(3) {
+					grid-column-end: span 2;
+					grid-row-start: 1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(4) {
+					grid-column: 1 / span 4;
+					grid-row: 2 / -1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(5),
+				.photo-grid.mod-alt.mod-homepage li:nth-child(6) {
+					display: none;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(7) {
+					grid-column: 5;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(8) {
+					grid-column: 6 / -1
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(9) {
+					grid-column: 8;
+					grid-row: 2 / -1; 
+				}
+
+			}
+		
+			@media only screen and (min-width: 65em) {
+				.photo-grid.mod-alt.mod-homepage li:nth-child(2) {
+					grid-column: 1 / span 1;
+					grid-row: 1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(3) {
+					grid-column-end: span 1;
+					grid-row-start: 1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(4) {
+					grid-column: 1 / span 2;
+					grid-row: 2 / -1;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(5),
+				.photo-grid.mod-alt.mod-homepage li:nth-child(6) {
+					display: block;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(5) {
+					grid-column: 3 / span 2;
+					grid-row: 1 / span 2;
+				}
+				.photo-grid.mod-alt.mod-homepage li:nth-child(6) {
+					grid-column: span 2;
+					grid-row-start: 3 / -1;
+				}
+			}
+		
+			.photo-grid_header.mod-large {
+				line-height: 1.2;
+			}
+		
+			@media only screen and (min-width: 75em) {
+				.photo-grid_header.mod-large {
+					--max-font-size: 52px;
+				}
+			}
+			
+			.svg-wrapper {
+                    position: relative;
+					top: 0;
+    				left: 0;
+					width: 230px;
+					height: 230px;
+					margin-left: 2rem;
+					margin-top: 1rem;
+					transform: rotate(-25deg);
+					align-self: start;
+                    -webkit-perspective: 500px;
+                            perspective: 500px;
+                    -webkit-perspective-origin: calc(50% + 120px) 50%;
+                            perspective-origin: 85% 50%;
+                }
+			@media only screen and (min-width: 75em) {
+				.svg-wrapper {
+					width: 270px;
+					height: 270px;
+				}
+			}
+                @media only screen and (min-width: 48em) and (max-height: 750px) {
+                    .experience {
+                        height: 130vh;
+                    }
+                    .svg-wrapper {
+                        width: 230px;
+                        height: 230px;
+                    }
+                }
+			.experience_stamp {
+                    -webkit-transform: translateZ(600px);
+                            transform: translateZ(600px);
+                    opacity: 0;
+                }
+                    .experience_stamp.is-visible {
+                        -webkit-animation: slide-in-bck-center 1.25s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	                            animation: slide-in-bck-center 1.25s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+					}
+		
+			@-webkit-keyframes slide-in-bck-center {
+                0% {
+                    -webkit-transform: translateZ(600px);
+                            transform: translateZ(600px);
+                    opacity: 0;
+                }
+                100% {
+                    -webkit-transform: translateZ(0);
+                            transform: translateZ(0);
+                    opacity: 1;
+                }
+            }
+                @keyframes slide-in-bck-center {
+                0% {
+                    -webkit-transform: translateZ(600px);
+                            transform: translateZ(600px);
+                    opacity: 0;
+                }
+                100% {
+                    -webkit-transform: translateZ(0);
+                            transform: translateZ(0);
+                    opacity: 1;
+                }
+            }
+          
+			#logo-footer { 
+				position: relative;
+				z-index: 100;
+				margin-top: 0; 
+			}
+		
+			@media only screen and (min-width:48em) {
+				_:-ms-fullscreen, :root .main-img {
+					height: auto;
+				}
+			}
+			@media only screen and (min-width: 60em) {
+				.main-img {
+					height: calc(min(100vw, 90vh) - 157px);
+				}
+			}
+		
+			#logo-footer { 
+				position: relative;
+				z-index: 100;
+				margin-top: 0; 
+			}
+
+            @media only screen and (min-width:60em) {
+                .main-container { margin-top: 0; }
+            }
+
+            /* @media only screen and (max-device-width:1024px) and (min-device-width:768px) {
+                .main-container {
+                    margin-top: 0!important
+                }
+            } */
+
+            @media only screen 
+            and (min-device-width : 375px) 
+            and (max-device-width : 812px) 
+            and (orientation : landscape) {
+                .video_still,
+                .experience {
+                    height: 100vh;
+                }
+            }
+            
+            @media (prefers-reduced-motion: reduce) {
+                .video_still { display: block; }
+                .experience_stamp {
+                    -webkit-transform: translateZ(0);
+                            transform: translateZ(0);
+                    opacity: 1;
+                }
+                video,
+                .video_btn { display: none; }
+            }
+            
+            @supports (-ms-ime-align:auto) {
+                video {
+                    height: auto;
+                }
+            }
+		
+		@-webkit-keyframes fade-in {
+		  0% {
+			opacity: 0;
+		  }
+		  100% {
+			opacity: 1;
+		  }
+		}
+		@keyframes fade-in {
+		  0% {
+			opacity: 0;
+		  }
+		  100% {
+			opacity: 1;
+		  }
+		}
+		
+/* 		@keyframes down-enter {
+		  0% { clip-path: inset(0 0 100% 0); }
+		  100% { clip-path: inset(0); }
+		} */
+	</style>
+	
+	<script src="/_resources/js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	<script src="/_resources/js/direct-edit.js"></script>
+	<meta name="facebook-domain-verification" content="e8dhf8dphkg2ejmqf2tj1lf4si9b5h" />
+<link rel="preconnect" href="https://connect.facebook.net/">
+<link rel="preconnect" href="https://www.googletagmanager.com/">
+<!-- Admissions CRM Tracking Code -->
+<script type="text/javascript">
+	"use strict";if(window["ping_apply.sc.edu"]==null){window["ping_apply.sc.edu"]=true;var ping_service="https://apply.sc.edu/ping?cmd=register",ping_service_whoami="https://apply.sc.edu/ping?cmd=whoami";var ping_start=new Date().getTime();window.addEventListener("unload",function(b){var d=new Date().getTime()-ping_start;var g=ping_service+"&d="+encodeURIComponent(d.toString())+"&t="+new Date().getTime().toString();try{if(navigator.sendBeacon){navigator.sendBeacon(g,"")}else{var a=new XMLHttpRequest();a.open("GET",g,false);a.send()}}catch(c){var e=document.getElementsByTagName("SCRIPT")[0];var f=document.createElement("SCRIPT");f.async=true;f.src=g;e.parentNode.insertBefore(f,e)}});if(window.ping_whoami!=null){var s=document.getElementsByTagName("SCRIPT")[0];var s2=document.createElement("SCRIPT");s2.async=true;s2.src=ping_service_whoami;s.parentNode.insertBefore(s2,s)}};
+</script>
+<!-- begin Admissions CBE code -->
+<script>
+(function(a,b,c,d,e,f,g) {
+a[e] = a[e] || function() {(a[e].q = a[e].q || []).push(arguments)};f=b.createElement(c);
+g=b.getElementsByTagName(c)[0];f.async=1;f.src=d+"/cbe/cbe.js";g.parentNode.insertBefore(f,g);
+})(window,document,"script","https://cbe.capturehighered.net","_cbe");
+ 
+_cbe("create","d54185b7");
+_cbe("log","pageview");
+</script>
+<!-- end CBE code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '887945617892773'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=887945617892773&ev=PageView&noscript=1"
+/></noscript>
+<!-- UofSC top level pixels (First/Flare Media and Second/Community Jorunals) -->
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript" async></script>
+<script type="text/javascript">
+	ttd_dom_ready( function() {
+		if (typeof TTDUniversalPixelApi === 'function') {
+			var universalPixelApi = new TTDUniversalPixelApi();
+			universalPixelApi.init("f3csxad", ["r99t4vv"], "https://insight.adsrvr.org/track/up");
+		}
+	});
+</script>
+<script type="text/javascript">
+	ttd_dom_ready( function() {
+		if (typeof TTDUniversalPixelApi === 'function') {
+			var universalPixelApi = new TTDUniversalPixelApi();
+			universalPixelApi.init("pyi7xkb", ["7cp7fb8"], "https://insight.adsrvr.org/track/up");
+		}
+	});
+</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJ732CJ');</script>
+<!-- begin SiteImprove Tracking code -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_66356667.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<!-- end SiteImprove Tracking code -->	<script>
+	OUC = typeof OUC === "undefined" ? {} : OUC;
+	OUC.dirname = typeof OUC.dirname === "undefined" ? "/" : OUC.dirname;
+	</script></head>
+<body><a id="skiptocontent" href="#main-content">Skip to Content</a>
+	<div id="main-wrapper" style="margin:0 auto;position:relative;height:100%;">
+			
+		<header class="banner" role="banner">
+			<div class="row hide-for-medium">
+				<div class="column small-6 mobile-head"><a href="https://www.sc.edu" class="logo">University of South Carolina Home</a></div>
+				<div class="column small-6">
+					<div class="banner-icons"><button type="button" class="search-btn-mobile">Search University of South Carolina</button><button type="button" class="menu-btn-mobile">University of South Carolina Navigation</button></div>
+				</div>
+			</div>
+			
+			<form method="get" action="/search" id="search" role="search" class="hide-for-medium">
+	<div class="search-wrapper">
+		<input value="013416120310277204335:wk85hzl5qdq" name="cx" type="hidden">
+		<label for="search-mobile" class="visuallyhidden">Search sc.edu</label>
+		<input class="search-input" id="search-mobile" name="q" type="text" placeholder="Search sc.edu" />
+		<input value="GO" type="submit" class="submit">
+	</div>
+</form>
+			
+			<nav class="row hide-for-small main-nav" role="navigation">
+
+				<div class="column grid_12 main-nav_top">
+					<a href="https://sc.edu" class="main-logo">
+	<img src="/_global_resources/img/uofsc_primary_web.svg" alt="University of South Carolina Home">
+</a>					<div class="banner-toolbox"><strong>Gateways For: </strong>
+<ul class="banner-tools">
+<li><a href="https://www.sc.edu/students/">STUDENTS </a></li>
+<li><a href="https://www.sc.edu/facultystaff/">FACULTY &amp; STAFF</a></li>
+<li><a href="https://www.sc.edu/alumni/">ALUMNI</a></li>
+<li><a href="https://www.sc.edu/parents/">PARENTS</a></li>
+<li><a href="https://www.sc.edu/calendar/uofsc/">Calendar</a></li>
+<li><a href="https://www.sc.edu/visit/map/">Map</a></li>
+<li><a href="https://www.sc.edu/about/directory/">Directory</a></li>
+<li><a href="https://www.sc.edu/giving/index.php">Give</a></li>
+</ul>
+</div>					<form method="get" action="/search/" id="search-desktop" role="search">
+	<input value="013416120310277204335:wk85hzl5qdq" name="cx" type="hidden">
+	<label for="search-dt" class="visuallyhidden">Search sc.edu</label>
+	<input class="search-input" id="search-dt" name="q" type="text" placeholder="Search sc.edu">
+	<input value="GO" type="submit" class="submit" title="sc.edu Search">
+	<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><title>Search</title><g stroke-linecap="square" stroke-linejoin="miter" stroke-width="3" stroke="currentColor" fill="none" stroke-miterlimit="10"><line x1="22" y1="22" x2="15.656" y2="15.656"></line><circle cx="10" cy="10" r="8"></circle></g></svg>
+</form>				</div>
+				<div class="column grid_12 main-nav_bottom">
+					<ul class="nav-links"><li class="main-nav-link"><a href="/study/index.php">Study</a><div class="flyout"><ol><li><a href="/study/index.php">Study at South Carolina</a></li><li><a href="/study/academic_overview/">Academic Overview</a></li><li><a href="/study/majors_and_degrees/">Majors and Degrees at South Carolina</a></li><li><a href="/study/colleges_schools/index.php">Colleges and Schools</a></li><li><a href="/study/research_opportunities/index.php">Research Opportunities</a></li><li><a class="ou-no-subnav" title="Academic Success Resources" href="/study/academic_success_resources/index.php">Academic Success Resources</a></li><li><a class="ou-no-subnav" title="Career Preparation" href="/study/career_preparation/index.php">Career Preparation</a></li><li><a href="/study/libraries_and_collections/index.php">Libraries and Collections</a></li></ol></div></li><li class="main-nav-link"><a href="/experience/index.php">Experience</a><div class="flyout"><ol><li><a href="/experience/index.php">Experience South Carolina</a></li><li><a class="ou-no-subnav" title="Living Here" href="/experience/living_here/index.php">Living Here</a></li><li><a class="ou-no-subnav" title="Get Involved" href="/experience/get_involved/index.php">Get Involved</a></li><li><a href="/experience/my_uofsc_experience/index.php">My UofSC Experience</a></li><li><a href="/experience/grab_a_bite/index.php">Grab a Bite</a></li><li><a class="ou-no-subnav" title="See the World" href="/experience/see_the_world/index.php">See the World</a></li><li><a class="ou-no-subnav" href="/experience/catch_a_show/index.php">Catch a Show</a></li><li><a class="ou-no-subnav" title="Get in the Game" href="/experience/get_in_the_game/index.php">Get in the Game</a></li></ol></div></li><li class="main-nav-link"><a href="/visit/index.php">Visit</a><div class="flyout"><ol><li><a href="/visit/index.php">Visit Campus</a></li><li><a href="/visit/individual-visits/index.php">Individual Visits</a></li><li><a href="/visit/group-visits/index.php">Group Visits</a></li><li><a class="ou-no-subnav" href="/visit/virtual-tour/index.php">Virtual Tour</a></li><li><a href="/visit/explore-columbia/index.php">Explore Columbia</a></li><li><a class="ou-no-subnav" href="/visit/map/index.php">Campus Map</a></li></ol></div></li><li class="main-nav-link"><a href="/apply/index.php">Apply</a><div class="flyout"><ol><li><a href="/apply/index.php">Apply to South Carolina</a></li><li><a class="ou-no-subnav" title="Apply for Undergraduate Admission" href="/apply/apply_for_undergraduate_admission/index.php">Undergraduate Admissions</a></li><li><a class="ou-no-subnav" title="Apply to Graduate School" href="/apply/apply_to_graduate_school/index.php">Graduate School Admissions</a></li><li><a class="ou-no-subnav" title="Apply to our Professional Schools" href="/apply/apply_to_our_professional_schools/index.php">Professional School Admissions</a></li><li><a class="ou-no-subnav" title="Cost, Tuition and Financial Aid" href="/apply/cost_tuition_financial_aid/index.php">Cost, Tuition and Financial Aid</a></li></ol></div></li><li class="main-nav-link"><a href="/research/index.php">Research</a><div class="flyout"><ol><li><a href="/research/index.php">Research at South Carolina</a></li><li><a href="/research/research_focus_areas/index.php">Research Focus Areas</a></li><li><a class="ou-no-subnav" title="Faculty Expertise" href="/research/faculty_expertise/index.php">Faculty Expertise</a></li><li><a class="ou-no-subnav" title="Business Partnership Opportunities" href="/research/business_partnership_opportunities/index.php">Business Partnership Opportunities</a></li><li><a class="ou-no-subnav" title="Facilities and Resources" href="/research/facilities_and_resources/index.php">Facilities and Resources</a></li></ol></div></li><li class="main-nav-link"><a href="/about/index.php">About</a><div class="flyout"><ol><li><a href="/about/index.php">About South Carolina</a></li><li><a href="/about/south_carolina_at_a_glance/index.php">South Carolina at a Glance</a></li><li><a href="/about/our_leadership/index.php">Our Leadership</a></li><li><a title="Offices and Divisions" href="/about/offices_and_divisions/index.php">Offices and Divisions</a></li><li><a href="/about/signature_events/index.php">Signature Events</a></li><li><a class="ou-no-subnav" href="/about/our_history/index.php">Our History</a></li><li><a class="ou-no-subnav" title="Directory Search" href="/about/directory/index.php">Directory Search</a></li><li><a href="/about/employment_working_at_uofsc/index.php">Employment:&nbsp;Working at UofSC</a></li></ol></div></li><li class="main-nav-link"><a href="/uofsc/index.php">News &amp; Events</a><div class="flyout"><ol><li><a href="/uofsc/index.php">UofSC News &amp; Events</a></li><li><a href="/uofsc/stories-topics-listing-page.php">Recent Stories</a></li><li><a href="/uofsc/in_the_news/index.php">In the News</a></li><li><a href="/uofsc/releases-topics-listing-page.php">Press Releases</a></li><li><a href="https://www.sc.edu/calendar/uofsc/index.php">University Events</a></li></ol></div></li><li class="main-nav-link"><a href="/athletics/">Athletics</a></li></ul>
+				</div>
+			</nav>
+		</header>	
+		<div id="sidr" class="hide-for-medium">
+			<div class="sidr-inner">
+				<nav class="mobile-nav">
+					<ul><li><a href="/study/index.php">Study</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/study/index.php">Study at South Carolina</a></li><li><a href="/study/academic_overview/">Academic Overview</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/study/academic_overview/undergraduate_education/index.php">Undergraduate Education</a></li><li><a title="Graduate Education" href="/study/academic_overview/graduate_education.php">Graduate Education</a></li><li><a class="ou-no-subnav" title="Professional Programs" href="/study/academic_overview/professional_programs/index.php">Professional Programs</a></li><li><a class="ou-no-subnav" title="Continuing Education" href="/study/academic_overview/continuing_education/index.php">Continuing Education</a></li><li><a class="ou-no-subnav" title="Online Education" href="/study/academic_overview/online_education/index.php">Online Education</a></li><li><a class="ou-no-subnav" title="Academic Calendar" href="https://www.sc.edu/about/offices_and_divisions/registrar/academic_calendars/index.php">Academic Calendar</a></li><li><a href="/study/academic_overview/academic_bulletins/index.php">Academic Bulletins</a></li></ul></li><li><a href="/study/majors_and_degrees/">Majors and Degrees at South Carolina</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/study/majors_and_degrees/accounting.php">Accounting</a></li><li><a href="/study/majors_and_degrees/advertising.php">Advertising</a></li><li><a href="/study/majors_and_degrees/african_american_studies.php">African American Studies</a></li><li><a href="/study/majors_and_degrees/anthropology.php">Anthropology</a></li><li><a href="/study/majors_and_degrees/art_education.php">Art Education</a></li><li><a href="/study/majors_and_degrees/art_history.php">Art History</a></li><li><a href="/study/majors_and_degrees/art_studio.php">Art Studio</a></li><li><a href="/study/majors_and_degrees/athletic_training.php">Athletic Training</a></li><li><a href="/study/majors_and_degrees/biochemistry_and_molecular_biology.php">Biochemistry and Molecular Biology</a></li><li><a href="/study/majors_and_degrees/biomedical_sciences.php">Biological Sciences</a></li><li><a href="/study/majors_and_degrees/biomedical_sciences.php">Biomedical Sciences</a></li><li><a href="/study/majors_and_degrees/biostatistics.php">Biostatistics</a></li><li><a href="/study/majors_and_degrees/business_administration.php">Business Administration</a></li><li><a href="/study/majors_and_degrees/cardiovascular_technology.php">Cardiovascular Technology</a></li><li><a href="/study/majors_and_degrees/chemistry.php">Chemistry</a></li><li><a href="/study/majors_and_degrees/chinese_studies.php">Chinese Studies</a></li><li><a href="/study/majors_and_degrees/classics.php">Classics</a></li><li><a href="/study/majors_and_degrees/communication_sciences_and_disorders.php">Communication Sciences and Disorders</a></li><li><a href="/study/majors_and_degrees/comparative_literature.php">Comparative Literature</a></li><li><a href="/study/majors_and_degrees/computer_science_computer_engineering.php">Computer Science / Computer Engineering</a></li><li><a href="/study/majors_and_degrees/counseling_counselor_education.php">Counseling / Counselor Education</a></li><li><a href="/study/majors_and_degrees/creative_writing.php">Creative Writing</a></li><li><a href="/study/majors_and_degrees/criminology_and_criminal_justice.php">Criminology and Criminal Justice</a></li><li><a href="/study/majors_and_degrees/dance.php">Dance</a></li><li><a href="/study/majors_and_degrees/economics.php">Economics</a></li><li><a href="/study/majors_and_degrees/educational_practice_and_innovation.php">Education: Curriculum and Instruction</a></li><li><a href="/study/majors_and_degrees/early_childhood_education.php">Education: Early Childhood Education</a></li><li><a href="/study/majors_and_degrees/elementary_education.php">Education: Elementary Education</a></li><li><a href="/study/majors_and_degrees/language_and_literacy.php">Education: Language and Literacy</a></li><li><a href="/study/majors_and_degrees/middle_level_education.php">Education: Middle Level Education</a></li><li><a href="/study/majors_and_degrees/physical_education.php">Education: Physical Education</a></li><li><a href="/study/majors_and_degrees/secondary_education.php">Education: Secondary Education</a></li><li><a href="/study/majors_and_degrees/special_education.php">Education: Special Education</a></li><li><a href="/study/majors_and_degrees/teacher_education.php">Education: Teacher Education</a></li><li><a href="/study/majors_and_degrees/educational_administration.php">Educational Administration and Higher Education</a></li><li><a href="/study/majors_and_degrees/educational_psychology_and_research.php">Educational Psychology and Research</a></li><li><a href="/study/majors_and_degrees/learning_design_technologies.php">Educational Technology</a></li><li><a href="/study/majors_and_degrees/aerospace_engineering.php">Engineering: Aerospace Engineering</a></li><li><a href="/study/majors_and_degrees/biomedical_engineering.php">Engineering: Biomedical Engineering</a></li><li><a href="/study/majors_and_degrees/chemical_engineering.php">Engineering: Chemical Engineering</a></li><li><a href="/study/majors_and_degrees/civil_engineering.php">Engineering: Civil Engineering</a></li><li><a href="/study/majors_and_degrees/electrical_engineering.php">Engineering: Electrical Engineering</a></li><li><a href="/study/majors_and_degrees/engineering_management.php">Engineering: Engineering Management</a></li><li><a href="/study/majors_and_degrees/mechanical_engineering.php">Engineering: Mechanical Engineering</a></li><li><a href="/study/majors_and_degrees/nuclear_engineering.php">Engineering: Nuclear Engineering</a></li><li><a href="/study/majors_and_degrees/english.php">English</a></li><li><a href="/study/majors_and_degrees/environmental_health_sciences.php">Environmental Health Sciences</a></li><li><a href="/study/majors_and_degrees/environmental_science_environmental_studies.php">Environmental Science / Environmental Studies</a></li><li><a href="/study/majors_and_degrees/epidemiology.php">Epidemiology</a></li><li><a href="/study/majors_and_degrees/european_studies.php">European Studies</a></li><li><a href="/study/majors_and_degrees/exercise_science.php">Exercise Science</a></li><li><a href="/study/majors_and_degrees/film_and_media_studies.php">Film and Media Studies</a></li><li><a href="/study/majors_and_degrees/finance.php">Finance</a></li><li><a href="/study/majors_and_degrees/foreign_language.php">Foreign Language</a></li><li><a href="/study/majors_and_degrees/french.php">French</a></li><li><a href="/study/majors_and_degrees/geography.php">Geography</a></li><li><a href="/study/majors_and_degrees/geological_sciences.php">Geological Sciences</a></li><li><a href="/study/majors_and_degrees/geophysics.php">Geophysics</a></li><li><a href="/study/majors_and_degrees/german.php">German</a></li><li><a href="/study/majors_and_degrees/management_science.php">Global Supply Chain and Operations Management</a></li><li><a href="/study/majors_and_degrees/health_communication.php">Health Communication</a></li><li><a href="/study/majors_and_degrees/health_information_technology.php">Health Information Technology</a></li><li><a href="/study/majors_and_degrees/health_promotion_education_and_behavior.php">Health Promotion, Education and Behavior</a></li><li><a href="/study/majors_and_degrees/health_services_policy_and_management.php">Health Services Policy and Management</a></li><li><a href="/study/majors_and_degrees/history.php">History</a></li><li><a href="/study/majors_and_degrees/hospitality_management.php">Hospitality Management</a></li><li><a href="/study/majors_and_degrees/human_resources.php">Human Resources</a></li><li><a href="/study/majors_and_degrees/information_science.php">Information Science</a></li><li><a href="/study/majors_and_degrees/integrated_information_technology.php">Integrated Information Technology</a></li><li><a href="/study/majors_and_degrees/interdisciplinary_studies.php">Interdisciplinary Studies</a></li><li><a href="/study/majors_and_degrees/international_business.php">International Business</a></li><li><a href="/study/majors_and_degrees/international_studies.php">International Studies</a></li><li><a href="/study/majors_and_degrees/journalism.php">Journalism</a></li><li><a href="/study/majors_and_degrees/latin_american_studies.php">Latin American Studies</a></li><li><a href="/study/majors_and_degrees/law.php">Law</a></li><li><a href="/study/majors_and_degrees/liberal_studies.php">Liberal Studies</a></li><li><a href="/study/majors_and_degrees/library_and_information_science.php">Library and Information Science</a></li><li><a href="/study/majors_and_degrees/linguistics.php">Linguistics</a></li><li><a href="/study/majors_and_degrees/management.php">Management</a></li><li><a href="/study/majors_and_degrees/marine_science.php">Marine Science</a></li><li><a href="/study/majors_and_degrees/marketing.php">Marketing</a></li><li><a href="/study/majors_and_degrees/mathematics.php">Mathematics</a></li><li><a href="/study/majors_and_degrees/media_arts.php">Media Arts</a></li><li><a href="/study/majors_and_degrees/medicine.php">Medicine</a></li><li><a href="/study/majors_and_degrees/music.php">Music</a></li><li><a href="/study/majors_and_degrees/conducting.php">Music: Conducting</a></li><li><a href="/study/majors_and_degrees/jazz_studies.php">Music: Jazz Studies</a></li><li><a href="/study/majors_and_degrees/music_composition.php">Music: Music Composition</a></li><li><a href="/study/majors_and_degrees/music_education.php">Music: Music Education</a></li><li><a href="/study/majors_and_degrees/music_history.php">Music: Music History</a></li><li><a href="/study/majors_and_degrees/music_performance.php">Music: Music Performance</a></li><li><a href="/study/majors_and_degrees/music_pedagogy.php">Music: Music Pedagogy (Piano / Violin)</a></li><li><a href="/study/majors_and_degrees/music_theory.php">Music: Music Theory</a></li><li><a href="/study/majors_and_degrees/opera_theatre.php">Music: Opera Theatre</a></li><li><a href="/study/majors_and_degrees/nursing.php">Nursing</a></li><li><a href="/study/majors_and_degrees/organizational_leadership.php">Organizational Leadership</a></li><li><a href="/study/majors_and_degrees/pharmacy.php">Pharmacy</a></li><li><a href="/study/majors_and_degrees/philosophy.php">Philosophy</a></li><li><a href="/study/majors_and_degrees/physics.php">Physics</a></li><li><a href="/study/majors_and_degrees/political_science.php">Political Science</a></li><li><a href="/study/majors_and_degrees/professional_science_master.php">Professional Science Master</a></li><li><a href="/study/majors_and_degrees/psychology.php">Psychology</a></li><li><a href="/study/majors_and_degrees/public_administration.php">Public Administration</a></li><li><a href="/study/majors_and_degrees/public_health.php">Public Health</a></li><li><a href="/study/majors_and_degrees/public_relations.php">Public Relations</a></li><li><a href="/study/majors_and_degrees/real_estate.php">Real Estate</a></li><li><a href="/study/majors_and_degrees/religious_studies.php">Religious Studies</a></li><li><a href="/study/majors_and_degrees/retailing.php">Retailing</a></li><li><a href="/study/majors_and_degrees/risk_management_and_insurance.php">Risk Management and Insurance</a></li><li><a href="/study/majors_and_degrees/russian.php">Russian</a></li><li><a href="/study/majors_and_degrees/social_work.php">Social Work</a></li><li><a href="/study/majors_and_degrees/sociology.php">Sociology</a></li><li><a href="/study/majors_and_degrees/spanish.php">Spanish</a></li><li><a href="/study/majors_and_degrees/speech_language_pathology.php">Speech / Language Pathology</a></li><li><a href="/study/majors_and_degrees/sport_and_entertainment_management.php">Sport and Entertainment Management</a></li><li><a href="/study/majors_and_degrees/statistics.php">Statistics</a></li><li><a href="/study/majors_and_degrees/theatre.php">Theatre</a></li><li><a href="/study/majors_and_degrees/tourism_management.php">Tourism Management</a></li><li><a href="/study/majors_and_degrees/visual_communications.php">Visual Communications</a></li><li><a href="/study/majors_and_degrees/womens_and_gender_studies.php">Women's and Gender Studies</a></li><li><a href="/study/majors_and_degrees/global_studies.php">Global Studies</a></li><li><a href="/study/majors_and_degrees/mass_communications.php">Mass Communications at South Carolina</a></li><li><a href="/study/majors_and_degrees/physical_therapy.php">Physical Therapy at South Carolina</a></li></ul></li><li><a href="/study/colleges_schools/index.php">Colleges and Schools</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a title="College of Arts and Sciences" href="/study/colleges_schools/arts_sciences_at_a_glance/index.php">College of Arts and Sciences</a></li><li><a title="Darla Moore School of Business" href="/study/colleges_schools/moore_school_of_business_at_a_glance/index.php">Darla Moore School of Business</a></li><li><a title="College of Education" href="/study/colleges_schools/education_at_a_glance/index.php">College of Education</a></li><li><a title="College of Engineering and Computing" href="/study/colleges_schools/engineering_and_computing_at_a_glance/index.php">College of Engineering and Computing</a></li><li><a title="The Graduate School" href="/study/colleges_schools/graduate_school_at_a_glance/index.php">The Graduate School</a></li><li><a title="College of Hospitality, Retail and Sport Management" href="/study/colleges_schools/hrsm_at_a_glance/index.php">College of Hospitality, Retail and Sport Management</a></li><li><a title="School of Law" href="/study/colleges_schools/law_at_a_glance/index.php">School of Law</a></li><li><a title="College of Information and Communications" href="/study/colleges_schools/cic_at_a_glance/index.php">College of Information and Communications<br /></a></li><li><a title="School of Medicine Columbia" href="/study/colleges_schools/medicine_columbia_at_a_glance/index.php">School of Medicine Columbia</a></li><li><a title="School of Medicine Greenville" href="/study/colleges_schools/medicine_greenville_at_a_glance/index.php">School of Medicine Greenville</a></li><li><a title="School of Music" href="/study/colleges_schools/music_at_a_glance/index.php">School of Music</a></li><li><a class="ou-no-subnav" title="College of Nursing" href="/study/colleges_schools/nursing_at_a_glance/index.php">College of Nursing</a></li><li><a title="College of Pharmacy" href="/study/colleges_schools/pharmacy_at_a_glance/index.php">College of Pharmacy</a></li><li><a title="Arnold School of Public Health" href="/study/colleges_schools/public_health_at_a_glance/index.php">Arnold School of Public Health</a></li><li><a title="College of Social Work" href="/study/colleges_schools/social_work_at_a_glance/index.php">College of Social Work</a></li><li><a title="South Carolina Honors College" href="/study/colleges_schools/honors_college_at_a_glance/index.php">South Carolina Honors College</a></li></ul></li><li><a href="/study/research_opportunities/index.php">Research Opportunities</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/study/research_opportunities/undergraduate_research/index.php">Undergraduate Research</a></li><li><a href="/study/research_opportunities/graduate_research/index.php">Graduate Research</a></li></ul></li><li><a class="ou-no-subnav" title="Academic Success Resources" href="/study/academic_success_resources/index.php">Academic Success Resources</a></li><li><a class="ou-no-subnav" title="Career Preparation" href="/study/career_preparation/index.php">Career Preparation</a></li><li><a href="/study/libraries_and_collections/index.php">Libraries and Collections</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a title="Thomas Cooper Library" href="http://library.sc.edu/">Thomas Cooper Library</a></li><li><a title="Digital Collections" href="http://library.sc.edu/digital/index.php">Digital Collections</a></li><li><a title="Educational Film Collection" href="http://library.sc.edu/business/index.html">Educational Film Collection</a></li><li><a title="Elliot White Springs Business Library" href="http://library.sc.edu/business/index.html">Elliot White Springs Business Library</a></li><li><a title="Karesh Law Library" href="http://www.law.sc.edu/library/">Karesh Law Library</a></li><li><a title="Library Annex and Conservation Facility" href="http://library.sc.edu/p/Annex">Library Annex and Conservation Facility</a></li><li><a title="Music Library" href="http://library.sc.edu/music/">Music Library</a></li><li><a title="Moving Images Research Collections" href="http://library.sc.edu/mirc/">Moving Images Research Collections</a></li><li><a title="Irvin Department of Rare Books and Special Collections" href="http://library.sc.edu/spcoll/rarebook.html">Irvin Department of Rare Books and Special Collections</a></li><li><a title="School of Medicine Library" href="http://uscm.med.sc.edu">School of Medicine Library</a></li><li><a title="South Carolina Political Collections" href="http://library.sc.edu/p/Collections/SCPC" target="_blank">South Carolina Political Collections</a></li><li><a title="South Caroliniana Library" href="http://library.sc.edu/socar/index.html">South Caroliniana Library</a></li></ul></li></ul></li><li><a href="/experience/index.php">Experience</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/experience/index.php">Experience South Carolina</a></li><li><a class="ou-no-subnav" title="Living Here" href="/experience/living_here/index.php">Living Here</a></li><li><a class="ou-no-subnav" title="Get Involved" href="/experience/get_involved/index.php">Get Involved</a></li><li><a href="/experience/my_uofsc_experience/index.php">My UofSC Experience</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/experience/my_uofsc_experience/engagements/index.php">My UofSC Experience Engagements</a></li></ul></li><li><a href="/experience/grab_a_bite/index.php">Grab a Bite</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a title="Campus Restaurants List" href="/experience/grab_a_bite/campus_restaurants_list.php">Campus Restaurants List</a></li></ul></li><li><a class="ou-no-subnav" title="See the World" href="/experience/see_the_world/index.php">See the World</a></li><li><a class="ou-no-subnav" href="/experience/catch_a_show/index.php">Catch a Show</a></li><li><a class="ou-no-subnav" title="Get in the Game" href="/experience/get_in_the_game/index.php">Get in the Game</a></li></ul></li><li><a href="/visit/index.php">Visit</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/visit/index.php">Visit Campus</a></li><li><a href="/visit/individual-visits/index.php">Individual Visits</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/visit/individual-visits/academic-info-session/index.php">Academic Information Sessions</a></li><li><a href="/visit/individual-visits/tour-tips/index.php">Tour Tips</a></li><li><a href="/visit/individual-visits/guest_accessibility/index.php">Guest Accessibility Services</a></li></ul></li><li><a href="/visit/group-visits/index.php">Group Visits</a></li><li><a class="ou-no-subnav" href="/visit/virtual-tour/index.php">Virtual Tour</a></li><li><a href="/visit/explore-columbia/index.php">Explore Columbia</a></li><li><a class="ou-no-subnav" href="/visit/map/index.php">Campus Map</a></li></ul></li><li><a href="/apply/index.php">Apply</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/apply/index.php">Apply to South Carolina</a></li><li><a class="ou-no-subnav" title="Apply for Undergraduate Admission" href="/apply/apply_for_undergraduate_admission/index.php">Undergraduate Admissions</a></li><li><a class="ou-no-subnav" title="Apply to Graduate School" href="/apply/apply_to_graduate_school/index.php">Graduate School Admissions</a></li><li><a class="ou-no-subnav" title="Apply to our Professional Schools" href="/apply/apply_to_our_professional_schools/index.php">Professional School Admissions</a></li><li><a class="ou-no-subnav" title="Cost, Tuition and Financial Aid" href="/apply/cost_tuition_financial_aid/index.php">Cost, Tuition and Financial Aid</a></li></ul></li><li><a href="/research/index.php">Research</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/research/index.php">Research at South Carolina</a></li><li><a href="/research/research_focus_areas/index.php">Research Focus Areas</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a class="ou-no-subnav" title="Health Sciences" href="/research/research_focus_areas/health_sciences/index.php">Health Sciences</a></li><li><a class="ou-no-subnav" title="Advanced Materials" href="/research/research_focus_areas/advanced_materials/index.php">Advanced Materials</a></li><li><a class="ou-no-subnav" title="Energy" href="/research/research_focus_areas/energy/index.php">Energy</a></li><li><a class="ou-no-subnav" title="Environment and Sustainability" href="/research/research_focus_areas/enviornment_and_sustainability/index.php">Environment and Sustainability</a></li></ul></li><li><a class="ou-no-subnav" title="Faculty Expertise" href="/research/faculty_expertise/index.php">Faculty Expertise</a></li><li><a class="ou-no-subnav" title="Business Partnership Opportunities" href="/research/business_partnership_opportunities/index.php">Business Partnership Opportunities</a></li><li><a class="ou-no-subnav" title="Facilities and Resources" href="/research/facilities_and_resources/index.php">Facilities and Resources</a></li></ul></li><li><a href="/about/index.php">About</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/about/index.php">About South Carolina</a></li><li><a href="/about/south_carolina_at_a_glance/index.php">South Carolina at a Glance</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/about/south_carolina_at_a_glance/our_mission.php">Our Mission</a></li></ul></li><li><a href="/about/our_leadership/index.php">Our Leadership</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a class="ou-no-subnav" title="University Officials" href="/about/our_leadership/university_officials/index.php">University Officials</a></li></ul></li><li><a title="Offices and Divisions" href="/about/offices_and_divisions/index.php">Offices and Divisions</a></li><li><a href="/about/signature_events/index.php">Signature Events</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/about/signature_events/uofsc_welcome/index.php">UofSC Welcome</a></li><li><a href="/about/signature_events/convocation/index.php">Convocation</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-four"><li><a href="/about/signature_events/convocation/rsvp.php">Convocation RSVP</a></li></ul></li><li><a href="/about/signature_events/family_weekend/index.php">Family Weekend</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-four"><li><a href="/about/signature_events/family_weekend/horseshoe_tour_registration.php">Family Weekend Horseshoe Tour Registration</a></li><li><a href="/about/signature_events/family_weekend/yoga_registration.php">Family Weekend Yoga Registration</a></li><li><a href="/about/signature_events/family_weekend/service_project_registration.php">Service Project Registration</a></li></ul></li><li><a href="/about/signature_events/homecoming/index.php">UofSC Homecoming</a></li><li><a href="/about/signature_events/mlk_celebration/index.php">MLK Celebration</a></li><li><a href="/about/signature_events/commencement/index.php">Commencement</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-four"><li><a href="/about/signature_events/commencement/2020-memories.php">Class of 2020 Memories</a></li><li><a href="/about/signature_events/commencement/commencement_feedback.php">Commencement Feedback</a></li><li><a href="/about/signature_events/commencement/celebrate_uofsc20.php">CELEBRATE 2020</a></li></ul></li></ul></li><li><a class="ou-no-subnav" href="/about/our_history/index.php">Our History</a></li><li><a class="ou-no-subnav" title="Directory Search" href="/about/directory/index.php">Directory Search</a></li><li><a href="/about/employment_working_at_uofsc/index.php">Employment:&nbsp;Working at UofSC</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-three"><li><a href="/about/employment_working_at_uofsc/benefits/index.php">Benefits</a></li><li><a href="https://www.sc.edu/about/employment_working_at_uofsc/student-employment/index.php">Student Employment</a></li></ul></li></ul></li><li><a href="/uofsc/index.php">News &amp; Events</a><button class="plus" aria-expanded="false" aria-label="expand section"></button><ul class="level-two"><li><a href="/uofsc/index.php">UofSC News &amp; Events</a></li><li><a href="/uofsc/stories-topics-listing-page.php">Recent Stories</a></li><li><a href="/uofsc/in_the_news/index.php">In the News</a></li><li><a href="/uofsc/releases-topics-listing-page.php">Press Releases</a></li><li><a href="https://www.sc.edu/calendar/uofsc/index.php">University Events</a></li></ul></li><li><a class="ou-no-subnav" href="/athletics/">Athletics</a></li></ul>
+					<h1 class="menu-header">Tools &amp; Resources</h1>
+<ol class="menu-list">
+<li><a href="https://www.sc.edu/calendar/uofsc/index.php">Calendar</a></li>
+<li><a href="https://www.sc.edu/visit/map/">Map</a></li>
+<li><a href="https://www.sc.edu/about/directory/">Directory</a></li>
+<li><a onclick="_gaq.push(['_trackEvent', 'Give', 'Give Link', 'Clicked Link', 20, false]);" href="https://www.sc.edu/giving/index.php">Give</a></li>
+<li><a onclick="_gaq.push(['_trackEvent', 'Gateway', 'Student Visit', 'Clicked',20, false]);" href="https://www.sc.edu/students/">Student Gateway</a></li>
+<li><a onclick="_gaq.push(['_trackEvent', 'Gateway', 'Faculty Staff Visit', 'Clicked',20, false]);" href="https://www.sc.edu/facultystaff/">Faculty &amp; Staff Gateway</a></li>
+<li><a onclick="_gaq.push(['_trackEvent', 'Gateway', 'Parents Visit', 'Clicked',20, false]);" href="https://www.sc.edu/parents/">Parents &amp; Families Gateway</a></li>
+<li><a onclick="_gaq.push(['_trackEvent', 'Gateway', 'Alumni Visit', 'Clicked',20, false]);" href="https://www.sc.edu/alumni/">Alumni Gateway</a></li>
+</ol>
+				</nav>
+			</div>
+		</div>
+		
+		<div role="main" class="main-container" id="main-content">
+			<section>
+				<div class="full-width-hero mod-headline mod-bg-right mod-shallow margin-y-0">
+					<figure>
+						<img src="/homepage/2021_opportunity/images/homepage_4outsidepalms_warm_darker_corner_rt.jpg" alt="Four students gathered in the courtyard of the Darla Moore School of Business with stairs on the left and palmetto trees on the right." class="visuallyhidden">
+						<div class="full-width-hero_img" style="background-image:url('/homepage/2021_opportunity/images/homepage_4outsidepalms_warm_darker_corner_rt.jpg');"></div>
+					</figure>
+					<div class="full-width-hero_text pos-bottom-right">
+						<h1 class="full-width-hero_header">
+							<span class="bg-garnet mod-highlight font-condensed mod-small" style="margin-bottom:1rem;">Unlimited</span>
+							<span class="font-serif mod-medium mod-shadow">opportunities</span>
+						</h2>
+					</div>
+				</div>
+            </section>
+			<section>
+				<ul class="photo-grid mod-six mod-homepage mod-alt margin-y-0">
+					<li class="photo-grid_item bg-garnet">
+						<div class="svg-wrapper">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 426.83" role="img" class="experience_stamp" fill="#FFF"><title>UofSC stamp with the text Find Your Passion 300 Degree Programs.</title><path class="cls-1" d="M152.89,224.43c0,21.76-17.24,37-50,37-27.45,0-44.69-13.39-44.69-32.64,0-12.55,9.21-20.09,18.58-20.09,9.71,0,16.57,8.54,17.24,16.07.34,5-.67,10.38-3.18,16.91-3.68,9.71,1.34,16.57,10,16.57,14.56,0,18.07-17.41,18.07-33.81,0-12.39-.16-30.63-21.59-30.63-2.68,0-6.36.83-8.37.83-4.85,0-4.52-4.68-.84-4.68,2.85,0,6,1.17,8.71,1.17,9.37,0,22.09-8.37,22.09-31.47,0-15.57-6.19-29-17.57-29.63-5.53-.34-11.55,1.17-13.56,5.52-4.86,10.38,5,16.74,5,28,0,8.87-6.19,17.74-17.07,17.74C64.18,181.24,58,172,58,161.49,58,141.4,80.25,127,103.18,127c29.29-.17,47.71,12.22,47.2,36.65-.16,8.21-2.67,13.06-6.52,16.91-7,8-19.76,12.05-37.5,11.22v.67C127.79,198.15,152.89,191.79,152.89,224.43Z"/><path class="cls-1" d="M262.2,192.46v3.68c0,39.34-17.24,65.28-50,65.28s-50.05-25.94-50.05-65.28v-3.68c0-39.34,17.24-65.29,50.05-65.29S262.2,153.12,262.2,192.46Zm-66.62-14.57V210.7c0,16.41.84,33.82,4.68,41.68,2.18,4.35,7,6.36,12.06,6.36,4.85,0,9.71-2,11.71-6.19,3.52-7.2,4.69-22.1,4.69-41.85V177.89c0-19.75-1.17-34.65-4.69-41.85-2-4.18-6.86-6.19-11.71-6.19-5,0-9.88,2-12.06,6.36C196.42,144.08,195.58,161.49,195.58,177.89Z"/><path class="cls-1" d="M374,192.46v3.68c0,39.34-17.24,65.28-50,65.28s-50.05-25.94-50.05-65.28v-3.68c0-39.34,17.24-65.29,50.05-65.29S374,153.12,374,192.46Zm-66.63-14.57V210.7c0,16.41.84,33.82,4.69,41.68,2.18,4.35,7,6.36,12.05,6.36,4.86,0,9.71-2,11.72-6.19,3.52-7.2,4.69-22.1,4.69-41.85V177.89c0-19.75-1.17-34.65-4.69-41.85-2-4.18-6.86-6.19-11.72-6.19-5,0-9.87,2-12.05,6.36C308.23,144.08,307.39,161.49,307.39,177.89Z"/><path class="cls-1" d="M26.07,210.74h0c-6.49-.91-14-8.29-15.43-10.54H1.53a19.52,19.52,0,0,0,7.73,7.32c3.42,2,11.9,3.22,11.9,3.22h0S12.68,212,9.26,214a19.59,19.59,0,0,0-7.74,7.31h9.12C12.07,219,19.57,211.66,26.07,210.74Z"/><path class="cls-1" d="M16.69,201.77a80.61,80.61,0,0,0,15.68,9,80.61,80.61,0,0,0-15.68,9C11.91,223.36,5.2,232.34,4,237.11h12s.72-8.78,5.6-14.73c4.37-5.32,12.93-11.64,12.93-11.64s-8.56-6.32-12.93-11.64c-4.88-5.95-5.6-14.73-5.6-14.73H4C5.2,189.14,11.91,198.11,16.69,201.77Z"/><path class="cls-1" d="M405.93,210.74h0c6.49-.91,14-8.29,15.43-10.54h9.11a19.52,19.52,0,0,1-7.73,7.32c-3.42,2-11.9,3.22-11.9,3.22h0s8.48,1.24,11.9,3.23a19.59,19.59,0,0,1,7.74,7.31h-9.12C419.93,219,412.43,211.66,405.93,210.74Z"/><path class="cls-1" d="M415.31,201.77a80.61,80.61,0,0,1-15.68,9,80.61,80.61,0,0,1,15.68,9c4.78,3.65,11.49,12.63,12.74,17.4h-12s-.72-8.78-5.6-14.73c-4.37-5.32-12.93-11.64-12.93-11.64s8.56-6.32,12.93-11.64c4.88-5.95,5.6-14.73,5.6-14.73h12C426.8,189.14,420.09,198.11,415.31,201.77Z"/><path class="cls-1" d="M101.27,102.1,85.37,85.68l7.34-7.11,2.14,2.21-4.22,4.09,4.75,4.9,3.45-3.34L101,88.64,97.52,92l6.87,7.09Z"/><path class="cls-1" d="M102.35,85.26c-5-6.16-5-11.25-1.63-14s8.34-1.63,13.32,4.53S118.9,87,115.58,89.7,107.32,91.43,102.35,85.26Zm8.18-6.65c-3.8-4.72-6.55-6-7.87-4.93s-.66,4,3.15,8.75,6.51,5.94,7.83,4.87S114.34,83.33,110.53,78.61Z"/><path class="cls-1" d="M123.78,83,111.16,63.89l3.61-2.4L125.7,78l4.67-3.1,1.7,2.57Z"/><path class="cls-1" d="M134,76.34l-11.15-20,3.79-2.12,9.65,17.27,4.9-2.73,1.5,2.69Z"/><path class="cls-1" d="M138.54,60.77c-3.25-7.22-2-12.15,2-13.93s8.48.54,11.73,7.76,1.87,12.05-2,13.81S141.79,68,138.54,60.77Zm9.61-4.36c-2.49-5.53-4.83-7.46-6.38-6.76s-1.65,3.72.84,9.25,4.79,7.4,6.34,6.7S150.64,61.93,148.15,56.41Z"/><path class="cls-1" d="M170.16,60.57l-7-14.75-.12,0L165.63,62l-4.08,1.28-10.73-20.6,4-1.26,7,15.34.13,0L159.24,40,163,38.85,170.2,54.1l.13,0-2.9-16.58,4-1.26,2.88,23.05Z"/><path class="cls-1" d="M189.94,56.07l-1.38-9.24-6.7-12.67,4.36-.65,3.92,8.9,1.23-9.66,4.1-.61-2.74,14.07,1.37,9.24Z"/><path class="cls-1" d="M198.15,43.38c-.46-7.91,2.47-12.06,6.8-12.31s7.73,3.53,8.2,11.44-2.55,11.93-6.82,12.17S198.61,51.28,198.15,43.38Zm10.53-.65c-.36-6-1.85-8.69-3.55-8.59s-2.87,2.89-2.52,8.94,1.84,8.63,3.54,8.53S209,48.79,208.68,42.73Z"/><path class="cls-1" d="M226.83,31.46l4.43.21-.79,16.81c-.25,5.4-3.54,6.27-7,6.11s-6.66-1.34-6.4-6.74L217.89,31l4.43.21-.8,17c-.11,2.48.92,3.2,2.16,3.25s2.22-.49,2.34-3Z"/><path class="cls-1" d="M241.92,56.11l-1.77-9.54-1.06-.16-1.33,9.08-4.3-.63,3.33-22.62,6.77,1c3.67.54,5.33,3,4.71,7.23-.56,3.8-2.38,5.18-4.06,5.8l2.37,10.53Zm-.66-12.53c1.29.19,2.37-.92,2.75-3.51.32-2.17-.17-3.68-1.56-3.88l-1.81-.27-1.09,7.41Z"/><path class="cls-1" d="M255,58.73l6.35-22,6.06,1.75c4.23,1.22,5.23,4,4,8.26-1.48,5.12-4.46,6.16-8,5.14l-1.8-.52-2.46,8.54Zm9.06-9.83c1.09.31,2.4-.35,3.21-3.15.71-2.48.25-4-.94-4.34l-1.67-.48-2.17,7.51Z"/><path class="cls-1" d="M275.17,65.34l1.26-5.8-3.53-1.33-2.85,5.18-4-1.51,12.34-19.77,4.69,1.78-3.91,23Zm4.05-18.24-.13-.05-4.62,8.35,2.68,1Z"/><path class="cls-1" d="M283,64.25a5.25,5.25,0,0,0,2.27,2.52,2.47,2.47,0,0,0,3.41-1.16c1.86-3.89-3.9-8.56-1.29-14a5.93,5.93,0,0,1,8.1-2.69,7.59,7.59,0,0,1,3.56,3.47l-2.48,2.08a6.24,6.24,0,0,0-2.45-2.68,2,2,0,0,0-2.8.9c-1.74,3.61,4.11,8.26,1.39,13.93a6.36,6.36,0,0,1-8.62,3.07,8.91,8.91,0,0,1-3.78-3.39Z"/><path class="cls-1" d="M294,69.65A5.28,5.28,0,0,0,296,72.33a2.47,2.47,0,0,0,3.49-.9c2.14-3.74-3.25-8.82-.25-14.05a5.93,5.93,0,0,1,8.28-2.08A7.57,7.57,0,0,1,310.84,59l-2.63,1.89A6.21,6.21,0,0,0,306,58.06a2,2,0,0,0-2.86.68c-2,3.48,3.49,8.54.35,14a6.38,6.38,0,0,1-8.82,2.42,9,9,0,0,1-3.52-3.66Z"/><path class="cls-1" d="M302.25,79.28l12.62-19.05,3.71,2.45L306,81.74Z"/><path class="cls-1" d="M315.71,74.51c4.9-6.23,9.85-7.4,13.26-4.71s3.45,7.77-1.44,14-9.82,7.25-13.18,4.61S310.82,80.74,315.71,74.51ZM324,81c3.75-4.77,4.38-7.74,3-8.79s-4.07.26-7.82,5-4.33,7.68-3,8.73S320.28,85.78,324,81Z"/><path class="cls-1" d="M328.89,100.76l7.66-14.29-.1-.09L325.57,97.51l-2.79-2.73,16-16.35L342.38,82l-7.64,13.84.1.09L345.49,85l2.81,2.75-16,16.35Z"/><path class="cls-1" d="M119.1,365.35l11.59-19.7,8.81,5.19-1.56,2.65-5.07-3-3.46,5.88,4.14,2.44L132,361.49l-4.14-2.44-5,8.51Z"/><path class="cls-1" d="M131.17,372.2l10.32-20.4,4,2-10.31,20.4Z"/><path class="cls-1" d="M147.59,379.74l1.78-16.11-.13-.05L143.3,378l-3.61-1.49,8.73-21.14,4.69,1.94L151.18,373l.12,0,5.82-14.09,3.64,1.5L152,381.58Z"/><path class="cls-1" d="M157.18,383.41l6.45-21.94,6.09,1.79c4.67,1.37,7,5,4.64,13-2.39,8.14-6.57,10.3-11.51,8.85Zm6.44-1.32c2.79.81,4.78-1.33,6.41-6.89,1.76-6,.84-8.39-1.44-9.06l-1.67-.49-4.71,16Z"/><path class="cls-1" d="M186.52,390.51l1.37-9.24-2.74-14.07,4.36.65,1.17,9.65,4-8.89,4.09.61-6.7,12.67-1.37,9.24Z"/><path class="cls-1" d="M197.84,380.69c.47-7.9,3.87-11.68,8.21-11.42s7.26,4.41,6.79,12.32-3.94,11.55-8.2,11.29S197.37,388.6,197.84,380.69Zm10.53.6c.36-6.05-.81-8.85-2.51-9s-3.19,2.53-3.55,8.59.81,8.78,2.51,8.88S208,387.34,208.37,381.29Z"/><path class="cls-1" d="M225.15,369.7l4.44-.19.72,16.82c.24,5.39-3,6.56-6.39,6.71s-6.76-.74-7-6.13l-.73-16.82,4.44-.19.74,17c.11,2.49,1.2,3.1,2.44,3s2.17-.69,2.06-3.24Z"/><path class="cls-1" d="M244.24,390.64,239.85,382l-1.06.15,1.29,9.09-4.3.61-3.2-22.64,6.78-1c3.67-.52,6,1.37,6.56,5.6.53,3.81-.82,5.64-2.26,6.71L248.9,390Zm-4.16-11.82c1.29-.19,2-1.56,1.64-4.15-.31-2.17-1.2-3.48-2.59-3.28l-1.82.26,1.05,7.41Z"/><path class="cls-1" d="M260,387.55l-6.18-22,6.08-1.7c4.24-1.2,6.56.67,7.76,4.91,1.44,5.13-.55,7.58-4.08,8.57l-1.8.51,2.4,8.55Zm2.52-13.13c1.09-.31,1.85-1.55,1.07-4.36-.7-2.49-1.9-3.53-3.09-3.2l-1.67.47,2.12,7.53Z"/><path class="cls-1" d="M281.77,380.62l-2.84-5.21-3.55,1.31,1.25,5.79-4,1.48L269,361l4.7-1.73,12.11,19.9Zm-8.9-16.43-.13.05,2,9.33,2.7-1Z"/><path class="cls-1" d="M289,377.66l-8.08-18-3.9,1.75-1.3-2.9,11.81-5.31,1.3,2.9-3.89,1.75,8.08,18Z"/><path class="cls-1" d="M308.4,367.76l-5.06-8.86-4.06,2.31,5.05,8.87-3.85,2.2-11.32-19.86,3.86-2.2,4.69,8.23,4.06-2.31-4.69-8.23,3.85-2.2,11.33,19.86Z"/><path class="cls-1" d="M215.78,421.66A210.78,210.78,0,0,1,11.73,264l7.14-1.86a203.5,203.5,0,0,0,393.82,0l7.15,1.86A210.79,210.79,0,0,1,215.78,421.66Z"/><path class="cls-1" d="M412.64,159.33a203.5,203.5,0,0,0-393.72,0l-7.14-1.86a210.87,210.87,0,0,1,408,0Z"/><path class="cls-1" d="M303.21,117a128.12,128.12,0,0,0-169-5.15l-4.7-5.69a135.47,135.47,0,0,1,178.74,5.45Z"/><path class="cls-1" d="M215.78,346.36A135.81,135.81,0,0,1,130.34,316L135,310.3A128.41,128.41,0,0,0,215.78,339a126.86,126.86,0,0,0,78.74-27.05l4.54,5.83A134.24,134.24,0,0,1,215.78,346.36Z"/><path class="cls-1" d="M63.36,296V269.41h7.86c6.14,0,9.71,3.55,9.71,13,0,9.72-3.69,13.58-10.22,13.58Zm7.27-4.47c3.11,0,4.2-3,4.2-9.11s-1.48-8.53-3.89-8.53H69.35v17.64Z"/><path class="cls-1" d="M87.43,296V269.41H99.6v4.51H93.42v6.29H98.7v4.36H93.42v7h6.72V296Z"/><path class="cls-1" d="M115.42,283.19l5.68-1.36V295a15.06,15.06,0,0,1-6.53,1.47c-6.38,0-10.54-4.63-10.54-13.59,0-9.76,5.09-14,11-14a10.72,10.72,0,0,1,6,1.69l-1.48,4.1a9.82,9.82,0,0,0-4.12-1.28c-3.27,0-5.33,3.51-5.33,9.45,0,3.71.74,8.53,5.25,9Z"/><path class="cls-1" d="M137.5,296l-3.11-10.34h-.89V296h-6V269.41h7.62c5.76,0,7.85,2.66,7.85,8,0,3.89-1.63,5.75-3.22,6.9L143.84,296Zm-2.72-14.47c1.21,0,2.26-1,2.26-3.93,0-2.59-.86-3.71-2.18-3.71H133.5v7.64Z"/><path class="cls-1" d="M149,296V269.41h12.17v4.51H155v6.29h5.29v4.36H155v7h6.73V296Z"/><path class="cls-1" d="M167.29,296V269.41h12.16v4.51h-6.18v6.29h5.29v4.36h-5.29v7H180V296Z"/><path class="cls-1" d="M196.09,296V269.41h8c5.37,0,7.39,2.86,7.39,8.33,0,6.1-2.92,8.53-7.5,8.53h-1.87V296Zm7.27-14.27c1.4,0,2.22-1.12,2.22-3.9,0-2.47-.7-3.94-2.14-3.94h-1.36v7.84Z"/><path class="cls-1" d="M227.16,296l-3.11-10.34h-.9V296h-6V269.41h7.62c5.75,0,7.85,2.66,7.85,8,0,3.89-1.63,5.75-3.23,6.9L233.49,296Zm-2.72-14.47c1.2,0,2.25-1,2.25-3.93,0-2.59-.86-3.71-2.18-3.71h-1.36v7.64Z"/><path class="cls-1" d="M237.81,282.76c0-9.57,3.89-13.81,9.25-13.81s9.26,4.24,9.26,13.81-4,13.74-9.26,13.74S237.81,292.33,237.81,282.76Zm12.36,0c0-6.44-1.12-9.3-3.11-9.3s-3.15,2.86-3.15,9.3S245,292,247.06,292,250.17,289.2,250.17,282.76Z"/><path class="cls-1" d="M273.5,283.19l5.68-1.36V295a15.07,15.07,0,0,1-6.54,1.47c-6.37,0-10.53-4.63-10.53-13.59,0-9.76,5.09-14,11-14a10.74,10.74,0,0,1,6,1.69l-1.48,4.1a9.82,9.82,0,0,0-4.12-1.28c-3.27,0-5.33,3.51-5.33,9.45,0,3.71.74,8.53,5.25,9Z"/><path class="cls-1" d="M295.58,296l-3.11-10.34h-.89V296h-6V269.41h7.62c5.76,0,7.85,2.66,7.85,8,0,3.89-1.63,5.75-3.22,6.9L301.92,296Zm-2.72-14.47c1.21,0,2.26-1,2.26-3.93,0-2.59-.86-3.71-2.18-3.71h-1.36v7.64Z"/><path class="cls-1" d="M317.28,296l-.9-6.13h-4.15l-.86,6.13h-5.75l5.09-26.62h7.35L323.11,296ZM314.4,275.2h-.15l-1.44,10.22h3Z"/><path class="cls-1" d="M344.53,296l-.62-17.4h-.16L341.23,296h-4.94l-2.53-17.4h-.15L333,296h-5.37l1.4-26.62h7.19l2.53,18.1h.15l2.45-18.1h7.19l1.4,26.62Z"/><path class="cls-1" d="M356.74,290.17a5.74,5.74,0,0,0,3.5,1.58,2.43,2.43,0,0,0,2.53-2.55c0-4.39-7.86-5.94-7.86-12.81a7.28,7.28,0,0,1,7.58-7.44,9.15,9.15,0,0,1,5.72,2l-1.63,4.32a6.8,6.8,0,0,0-3.7-1.51,2,2,0,0,0-2.14,2.09c0,4.09,7.9,5.51,7.9,12.77a7.63,7.63,0,0,1-7.82,7.91,9.71,9.71,0,0,1-6-2.05Z"/></svg>
+                            </div>
+						<div class="photo-grid_body">
+							<p>More than 300 degree options pair in-class learning and real-world experiences to better prepare you for the future. Combine your intellectual pursuits and personal interests into an unforgettable education.</p>
+						</div>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_1_2021-0209_086.jpg" alt="Students performing a dance number on stage in full costume." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_2_181025_engineering_017.jpg" alt="Students wearing safety goggles working on an machine with red and green wires." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_3_190928_football_v_kentucky_054.jpg" alt="Large crowd of Gamecock students cheering in the stands at Williams Brice Stadium with arms raised, twirling towels in the air." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_4_181010_moore_school_029_warm.jpg" alt="Students sitting at a desk in an auditorium style classroom with a notebook in front of her looking up towards the professor." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_5_colorboys.jpg" alt="Four students at a Color Run wearing white shirts splattered with colored chalk posing for the camera with their arms around each other." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_6_gardner_warm.jpg" alt="Student underwater scuba diving smiling for the camera with a sea turtle and giving a spurs up gesture with her hand." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_7_191210_coffee_on_the_mezz_008.jpg" alt="Student writing organic chemistry formulas on a whiteboard turned around looking at two other students sitting at a table." loading="lazy">
+						</figure>
+					</li>
+					<li class="photo-grid_item">
+						<figure class="photo-grid_img">
+							<img src="/homepage/2021_opportunity/images/grid_8_a-comp_5_edited.jpg" alt="Student wearing a helmet and harness climbing a rock wall." loading="lazy">
+						</figure>
+					</li>
+				</ul>
+			</section>
+			<section class="uofsc-news">
+				<div class="row">
+					<div class="column grid_12">
+						<h2 class="uofsc-news_head">UofSC NEWS &amp; EVENTS</h2>
+						<ul class="grid mod-three-col mod-news">
+                           <li> 
+							   <div class="li-img"><a href="https://www.sc.edu/uofsc/posts/2021/09/students_get_unique_experience_at_baruch_lab.php#.YUiGJ9Nuf0o"><img src="https://www.sc.edu/uofsc/images/banner_images/2021/kamariboyd_homepage_crop.jpg" width="375" height="250" alt="Kamari Boyd kneels in a marsh at the Baruch Institute in coastal South Carolina." loading="lazy"></a></div>
+							  <div class="li-text">
+								  <h3 class="li-head"><a href="https://www.sc.edu/uofsc/posts/2021/09/students_get_unique_experience_at_baruch_lab.php#.YUiGJ9Nuf0o">Students experience coastal research at Baruch Institute</a></h3>
+							  </div>
+                           </li>   
+							<li>
+								<div class="li-img"><a href="https://www.sc.edu/uofsc/posts/2021/09/public_history_graduates_put_history_to_work_in_the_world.php#.YUiJy9Nuf0o"><img src="https://sc.edu/uofsc/images/banner_images/2021/nate_johnson_homepage_crop.jpg" width="375" height="250" alt="Public historian Nate Johnson stands talking and gesturing with his hands at Rose Hill Plantation in Union, South Carolina." loading="lazy" style="object-position: right;"></a></div>
+							  <div class="li-text">
+								  <h3 class="li-head"><a href="https://www.sc.edu/uofsc/posts/2021/09/public_history_graduates_put_history_to_work_in_the_world.php#.YUiJy9Nuf0o">Alumni put history to work in the world</a></h3>
+							  </div>
+							</li>
+							<li> 
+							   <div class="li-img"><a href="https://www.sc.edu/uofsc/posts/2021/09/september_2021_board_meeting.php#.YUiKgNNuf0o"><img src="https://www.sc.edu/uofsc/images/banner_images/uofsc_banner_smokestack_180823-002.jpg" width="375" height="250" alt="Fountain in front of Thomas Cooper Library with USC smokestack in the background." loading="lazy"></a></div>
+							  <div class="li-text">
+								  <h3 class="li-head"><a href="https://www.sc.edu/uofsc/posts/2021/09/september_2021_board_meeting.php#.YUiKgNNuf0o">Board approves maintenance, renovation projects</a></h3>
+							  </div>
+                           </li>
+<!--                            <li>
+                              <div class="li-text">
+								  <h3 class="li-head"><a href="https://www.sc.edu/uofsc/posts/2021/05/05_teacher_superintendent_of_the_year.php#.YKf1fJNKhTY">College of Education alumnae recognized as tops in their profession</a></h3>
+								  <h3 class="li-head"><a href="https://www.sc.edu/uofsc/posts/2021/04/breakthrough_star_shelley_welton.php#.YKf1w5NKhTY">Law professor takes on climate change from energy policy perspective</a></h3>
+                              </div>
+							   <div class="li-text">
+								   <h2 class="category">Remembering the Days Podcast</h2> 
+								   <h3 class="li-head"><a href="https://www.sc.edu/uofsc/posts/2021/04/episode_25_remembering_the_days_matilda_pinckney.php#.YG9PLhNKhTY">Matilda Pinckneyâ??s story</a></h3>
+							   </div>
+							   <div class="li-text">
+							   	<h2 class="category">In the news</h2> 
+								  <h3 class="li-head"><a href="https://www.washingtonpost.com/outlook/2021/05/18/stagecoaches-could-fix-our-electric-car-problem/" target="_blank" class="new-window" data-external="true"><span>The Washington Post</span></a></h3>
+								   <p class="li-sub">
+									   <strong>â??Stagecoaches could fix our electric car problemâ??</strong> featuring Woody Holton, history</p>
+								   <h3 class="li-head"><a href="https://www.usatoday.com/in-depth/news/politics/2021/05/14/congresswoman-push-bipartisan-bill-protect-pregnant-employees/7129808002/" target="_blank" class="new-window" data-external="true"><span>USA Today</span></a></h3>
+								   <p class="li-sub">
+									   <strong>â??Really been a struggleâ??: Bill to protect pregnant workers passes in House. Female lawmakers say itâ??s crucialâ??</strong> featuring Kathryn Luchok, anthropology</p>
+							   </div>
+                           </li> -->
+                        </ul>
+						<div class="view-all">
+							<a href="https://sc.edu/uofsc/">More News &amp; Events</a>
+						</div>
+					</div>
+				</div>
+			</section>
+        </div>
+	
+	<div class="footer-wrapper">
+		<footer id="logo-footer">
+	<nav>
+		<div id="sitemap">
+			<div class="row">
+				<div class="column grid_12">
+					<div class="row">
+						<div class="column grid_6">
+							<a href="https://sc.edu/" class="logo" title="University of South Carolina">
+								<img src="/_global_resources/img/uofsc_primary_web.svg" alt="University of South Carolina Home">
+							</a>
+						</div>
+						<div class="column grid_6 uofsc-social">
+							<h2 class="">#UofSC</h2>
+							<ul class="uofsc-social_list">
+								<li><a href="https://www.facebook.com/uofsc" target="_blank" aria-labelledby="social-facebook" rel="noopener">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="uofsc-social_icon icon" role="img"><title id="social-facebook">UofSC Facebook</title><path class="cls-1" d="M15,1A14,14,0,1,1,1,15,14,14,0,0,1,15,1m0-1A15,15,0,1,0,30,15,15,15,0,0,0,15,0Z"/><path class="cls-1" d="M13.1,29.48V19.15H9.35V14.87H13.1V11.61c0-3.7,2.21-5.75,5.59-5.75A22.61,22.61,0,0,1,22,6.15V9.79H20.14a2.14,2.14,0,0,0-2.42,2.31v2.77h4.11l-.66,4.28H17.72V29.48Z"/></svg>
+								</a></li>
+								<li><a href="https://www.instagram.com/uofsc/?hl=en" target="_blank" aria-labelledby="social-instagram" rel="noopener">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="uofsc-social_icon icon" role="img"><title id="social-instagram">UofSC Instagram</title><path class="cls-1" d="M15,1A14,14,0,1,1,1,15,14,14,0,0,1,15,1m0-1A15,15,0,1,0,30,15,15,15,0,0,0,15,0Z"/><path class="cls-1" d="M15,6c-2.44,0-2.75,0-3.71.06a6.66,6.66,0,0,0-2.19.41,4.42,4.42,0,0,0-1.59,1,4.37,4.37,0,0,0-1,1.6,6.78,6.78,0,0,0-.42,2.18c0,1,0,1.27,0,3.71s0,2.75,0,3.71a6.78,6.78,0,0,0,.42,2.18,4.37,4.37,0,0,0,1,1.6,4.42,4.42,0,0,0,1.59,1,6.9,6.9,0,0,0,2.19.42c1,0,1.27.05,3.71.05s2.75,0,3.71-.05a6.78,6.78,0,0,0,2.18-.42,4.6,4.6,0,0,0,2.64-2.64A6.78,6.78,0,0,0,24,18.71c0-1,.05-1.27.05-3.71s0-2.75-.05-3.71a6.78,6.78,0,0,0-.42-2.18,4.6,4.6,0,0,0-2.64-2.64,6.54,6.54,0,0,0-2.18-.41C17.75,6,17.44,6,15,6m0,1.62c2.4,0,2.69,0,3.64,0A5.41,5.41,0,0,1,20.31,8,3.08,3.08,0,0,1,22,9.69a5.12,5.12,0,0,1,.31,1.67c0,1,.05,1.24.05,3.64s0,2.69-.05,3.64A5.12,5.12,0,0,1,22,20.31,3.08,3.08,0,0,1,20.31,22a5.12,5.12,0,0,1-1.67.31c-.95,0-1.24.05-3.64.05s-2.69,0-3.64-.05A5.12,5.12,0,0,1,9.69,22,3.08,3.08,0,0,1,8,20.31a5.12,5.12,0,0,1-.31-1.67c0-.95,0-1.24,0-3.64s0-2.69,0-3.64A5.12,5.12,0,0,1,8,9.69,3.08,3.08,0,0,1,9.69,8a5.41,5.41,0,0,1,1.67-.31c1,0,1.24,0,3.64,0"/><path class="cls-1" d="M15,18a3,3,0,1,1,3-3,3,3,0,0,1-3,3m0-7.62A4.62,4.62,0,1,0,19.62,15,4.62,4.62,0,0,0,15,10.38"/><path class="cls-1" d="M20.88,10.2A1.08,1.08,0,1,1,19.8,9.12a1.08,1.08,0,0,1,1.08,1.08"/></svg>
+								</a></li>
+								<li><a href="https://twitter.com/uofsc" target="_blank" aria-labelledby="social-twitter" rel="noopener">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="uofsc-social_icon icon" role="img"><title id="social-twitter">UofSC Twitter</title><path class="cls-1" d="M15,1A14,14,0,1,1,1,15,14,14,0,0,1,15,1m0-1A15,15,0,1,0,30,15,15,15,0,0,0,15,0Z"/><path class="cls-1" d="M21.87,11.85c0,.15,0,.31,0,.47,0,4.86-3.45,10.46-9.77,10.46a9.19,9.19,0,0,1-5.26-1.65,5.56,5.56,0,0,0,.82.05,6.56,6.56,0,0,0,4.26-1.57,3.48,3.48,0,0,1-3.21-2.56,2.81,2.81,0,0,0,.65.07,3,3,0,0,0,.9-.13,3.62,3.62,0,0,1-2.75-3.6v-.05a3.2,3.2,0,0,0,1.56.46,3.74,3.74,0,0,1-1.53-3.06A3.93,3.93,0,0,1,8,8.89a9.54,9.54,0,0,0,7.08,3.84,3.86,3.86,0,0,1-.09-.84,3.56,3.56,0,0,1,3.43-3.67,3.32,3.32,0,0,1,2.51,1.16,6.73,6.73,0,0,0,2.18-.89,3.67,3.67,0,0,1-1.51,2,6.6,6.6,0,0,0,2-.58,7.28,7.28,0,0,1-1.71,1.91"/></svg>
+								</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row footer-links">
+				<div class="column grid_6">
+					<div class="row">
+						<h2>Colleges &amp; Schools</h2>
+						<div class="footer-links_flex mod-first">
+							<div class="column grid_2 links">
+								<ul>
+									<li><a href="https://www.sc.edu/study/colleges_schools/artsandsciences/index.php">Arts and Sciences</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/moore/index.php">Business</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/education/index.php">Education</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/index.php">Engineering and Computing</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/graduate_school/index.php">The Graduate School</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/hrsm/index.php">Hospitality, Retail and Sport Management</a></li>
+								</ul>
+							</div>
+							<div class="column grid_2 links">
+								<ul>
+									<li><a href="https://www.sc.edu/study/colleges_schools/cic/index.php">Information and Communications</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/law/index.php">Law</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/medicine/index.php">Medicine (Columbia)</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/medicine_greenville/index.php">Medicine (Greenville)</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/music/index.php">Music</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/nursing/index.php">Nursing</a></li>
+								</ul>
+							</div>
+							<div class="column grid_2 links">
+								<ul>
+									<li><a href="https://www.sc.edu/study/colleges_schools/pharmacy/index.php">Pharmacy</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/public_health/index.php">Public Health</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/socialwork/index.php">Social Work</a></li>
+									<li><a href="https://www.sc.edu/study/colleges_schools/honors_college/index.php">South Carolina Honors College</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="column grid_4">
+					<h2>Offices &amp; Divisions</h2>
+					<div class="row">
+						<div class="footer-links_flex">
+							<div class="column grid_2 small-6 links">
+								<ul>
+									<li><a href="https://www.sc.edu/about/employment_working_at_uofsc/index.php">Working at UofSC</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/undergraduate_admissions/index.php">Undergraduate Admissions</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/financial_aid/index.php">Financial Aid and Scholarships</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/bursar/index.php">Bursar (fee payment)</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/veterans_and_military_services/index.php">Veterans and Military Services</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/student_disability_resource_center/index.php">Disability Resources</a></li>
+								</ul>
+							</div>
+							<div class="column grid_2 small-6 links">
+								<ul>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/diversity_equity_and_inclusion/index.php">Diversity, Equity and Inclusion</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/human_resources/index.php">Human Resources</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/law_enforcement_and_safety/index.php">Law Enforcement and Safety</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/university_libraries/index.php">University Libraries</a></li>
+									<li><a href="https://www.sc.edu/about/offices_and_divisions/">All Offices and Divisions</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="column grid_2 links">
+					<h2>Tools</h2>
+					<ul>
+						<li><a href="https://www.sc.edu/about/offices_and_divisions/law_enforcement_and_safety/carolina-alert/index.php">Carolina Alert</a></li>
+						<li><a href="https://outlook.com/email.sc.edu" target="_blank" rel="noopener">Campus Email</a></li>
+						<li><a href="https://my.sc.edu">my.sc.edu</a></li>
+						<li><a href="https://blackboard.sc.edu">Blackboard</a></li>
+						<li><a href="https://www.sc.edu/safety/index.php">Campus Safety and Wellness</a></li>
+						<li><a href="https://finance.ps.sc.edu">PeopleSoft Finance</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="site-info-wrapper" role="contentinfo">
+			<div class="row site-info">
+				<div class="column grid_12">
+					<small class="copyright">
+						<span id="directedit">&copy;</span>
+						<a href="https://www.sc.edu/about/notices/">University of South Carolina</a>	
+						<a href="https://www.sc.edu/about/notices/privacy/"><span>Privacy</span></a>
+						<a href="https://www.sc.edu/about/offices_and_divisions/financial_aid/forms_and_resources/student_consumer_information/">Student Consumer Information</a>
+						<a href="https://www.sc.edu/about/system_and_campuses/palmetto_college/internal/financial_aid/consumer_information/index.php" class="regional-link">Student Consumer Information</a>
+						<a href="http://spend.admin.sc.edu/">Transparency Initiative</a>
+						<a href="https://www.sc.edu/about/offices_and_divisions/equal_opportunities_programs/about/index.php">Equal Opportunity</a>
+						<a href="https://www.sc.edu/about/offices_and_divisions/digital-accessibility/index.php">Digital Accessibility</a>
+						<a href="https://www.sc.edu/about/contact/">Contact</a>
+						<a href="https://www.sc.edu/about/system/about/contact/" class="system-link">Contact</a>
+					</small>
+				</div>
+			</div>
+		</div>
+	</nav>
+			
+
+</footer>
+	</div>
+		
+</div>
+
+<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+<script type="text/javascript" src="/_resources/js/libs/jquery.min.js"></script>
+	
+<script src="/_resources/js/libs/jquery.fancybox.pack.js"></script>
+<script src="/_resources/js/plugins.js"></script>
+<script src="/_resources/js/script.js"></script>
+<script>
+	/*!
+	* in-view 0.6.1 - Get notified when a DOM element enters or exits the viewport.
+	* Copyright (c) 2016 Cam Wiegert <cam@camwiegert.com> - https://camwiegert.github.io/in-view
+	* License: MIT
+	*/
+	!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.inView=e():t.inView=e()}(this,function(){return function(t){function e(r){if(n[r])return n[r].exports;var i=n[r]={exports:{},id:r,loaded:!1};return t[r].call(i.exports,i,i.exports,e),i.loaded=!0,i.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){"use strict";function r(t){return t&&t.__esModule?t:{"default":t}}var i=n(2),o=r(i);t.exports=o["default"]},function(t,e){function n(t){var e=typeof t;return null!=t&&("object"==e||"function"==e)}t.exports=n},function(t,e,n){"use strict";function r(t){return t&&t.__esModule?t:{"default":t}}Object.defineProperty(e,"__esModule",{value:!0});var i=n(9),o=r(i),u=n(3),f=r(u),s=n(4),c=function(){if("undefined"!=typeof window){var t=100,e=["scroll","resize","load"],n={history:[]},r={offset:{},threshold:0,test:s.inViewport},i=(0,o["default"])(function(){n.history.forEach(function(t){n[t].check()})},t);e.forEach(function(t){return addEventListener(t,i)}),window.MutationObserver&&addEventListener("DOMContentLoaded",function(){new MutationObserver(i).observe(document.body,{attributes:!0,childList:!0,subtree:!0})});var u=function(t){if("string"==typeof t){var e=[].slice.call(document.querySelectorAll(t));return n.history.indexOf(t)>-1?n[t].elements=e:(n[t]=(0,f["default"])(e,r),n.history.push(t)),n[t]}};return u.offset=function(t){if(void 0===t)return r.offset;var e=function(t){return"number"==typeof t};return["top","right","bottom","left"].forEach(e(t)?function(e){return r.offset[e]=t}:function(n){return e(t[n])?r.offset[n]=t[n]:null}),r.offset},u.threshold=function(t){return"number"==typeof t&&t>=0&&t<=1?r.threshold=t:r.threshold},u.test=function(t){return"function"==typeof t?r.test=t:r.test},u.is=function(t){return r.test(t,r)},u.offset(0),u}};e["default"]=c()},function(t,e){"use strict";function n(t,e){if(!(t instanceof e))throw new TypeError("Cannot call a class as a function")}Object.defineProperty(e,"__esModule",{value:!0});var r=function(){function t(t,e){for(var n=0;n<e.length;n++){var r=e[n];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(t,r.key,r)}}return function(e,n,r){return n&&t(e.prototype,n),r&&t(e,r),e}}(),i=function(){function t(e,r){n(this,t),this.options=r,this.elements=e,this.current=[],this.handlers={enter:[],exit:[]},this.singles={enter:[],exit:[]}}return r(t,[{key:"check",value:function(){var t=this;return this.elements.forEach(function(e){var n=t.options.test(e,t.options),r=t.current.indexOf(e),i=r>-1,o=n&&!i,u=!n&&i;o&&(t.current.push(e),t.emit("enter",e)),u&&(t.current.splice(r,1),t.emit("exit",e))}),this}},{key:"on",value:function(t,e){return this.handlers[t].push(e),this}},{key:"once",value:function(t,e){return this.singles[t].unshift(e),this}},{key:"emit",value:function(t,e){for(;this.singles[t].length;)this.singles[t].pop()(e);for(var n=this.handlers[t].length;--n>-1;)this.handlers[t][n](e);return this}}]),t}();e["default"]=function(t,e){return new i(t,e)}},function(t,e){"use strict";function n(t,e){var n=t.getBoundingClientRect(),r=n.top,i=n.right,o=n.bottom,u=n.left,f=n.width,s=n.height,c={t:o,r:window.innerWidth-u,b:window.innerHeight-r,l:i},a={x:e.threshold*f,y:e.threshold*s};return c.t>e.offset.top+a.y&&c.r>e.offset.right+a.x&&c.b>e.offset.bottom+a.y&&c.l>e.offset.left+a.x}Object.defineProperty(e,"__esModule",{value:!0}),e.inViewport=n},function(t,e){(function(e){var n="object"==typeof e&&e&&e.Object===Object&&e;t.exports=n}).call(e,function(){return this}())},function(t,e,n){var r=n(5),i="object"==typeof self&&self&&self.Object===Object&&self,o=r||i||Function("return this")();t.exports=o},function(t,e,n){function r(t,e,n){function r(e){var n=x,r=m;return x=m=void 0,E=e,w=t.apply(r,n)}function a(t){return E=t,j=setTimeout(h,e),M?r(t):w}function l(t){var n=t-O,r=t-E,i=e-n;return _?c(i,g-r):i}function d(t){var n=t-O,r=t-E;return void 0===O||n>=e||n<0||_&&r>=g}function h(){var t=o();return d(t)?p(t):void(j=setTimeout(h,l(t)))}function p(t){return j=void 0,T&&x?r(t):(x=m=void 0,w)}function v(){void 0!==j&&clearTimeout(j),E=0,x=O=m=j=void 0}function y(){return void 0===j?w:p(o())}function b(){var t=o(),n=d(t);if(x=arguments,m=this,O=t,n){if(void 0===j)return a(O);if(_)return j=setTimeout(h,e),r(O)}return void 0===j&&(j=setTimeout(h,e)),w}var x,m,g,w,j,O,E=0,M=!1,_=!1,T=!0;if("function"!=typeof t)throw new TypeError(f);return e=u(e)||0,i(n)&&(M=!!n.leading,_="maxWait"in n,g=_?s(u(n.maxWait)||0,e):g,T="trailing"in n?!!n.trailing:T),b.cancel=v,b.flush=y,b}var i=n(1),o=n(8),u=n(10),f="Expected a function",s=Math.max,c=Math.min;t.exports=r},function(t,e,n){var r=n(6),i=function(){return r.Date.now()};t.exports=i},function(t,e,n){function r(t,e,n){var r=!0,f=!0;if("function"!=typeof t)throw new TypeError(u);return o(n)&&(r="leading"in n?!!n.leading:r,f="trailing"in n?!!n.trailing:f),i(t,e,{leading:r,maxWait:e,trailing:f})}var i=n(7),o=n(1),u="Expected a function";t.exports=r},function(t,e){function n(t){return t}t.exports=n}])});
+</script>
+	
+	<script>
+		$(document).ready(function() {
+			inView('.photo-grid_item.bg-garnet').on('enter', function() {
+				$('.experience_stamp').attr('class', 'experience_stamp is-visible');
+			});
+			inView.offset(200);
+		});
+	</script>
+<!-- end scripts -->
+<a id="de" href="https://a.cms.omniupdate.com/11/?skin=sc&amp;account=University_South_Carolina&amp;site=USC_Columbia&amp;action=de&amp;path=/index.php">Â©</a></body>
+</html>
