@@ -1,0 +1,17 @@
+ java HttpClient http://xcal1.vodafone.co.uk/5MB.zip
+
+Start: 0.524234
+End: 10.556048
+Total: 10.031814 seconds
+
+ java HttpClient http://xcal1.vodafone.co.uk/10MB.zip
+
+Start: 2.485199
+End: 15.125895
+Total: 12.640696 seconds
+
+ java HttpClient http://xcal1.vodafone.co.uk/20MB.zip
+
+Start: 4.55021
+End: 18.002104
+Total: 13.45189 seconds 

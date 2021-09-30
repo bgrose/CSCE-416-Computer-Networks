@@ -1,3 +1,5 @@
+package Project2;
+
 import java.net.HttpURLConnection;
 import java.net.URL;
 
@@ -13,7 +15,7 @@ public class HttpClient {
 
     public static void getHeadAndBody(HttpURLConnection connection, BufferedWriter writer) throws Exception {
 
-        connection.setRequestMethod("GET");
+        System.out.println("Here1");
         InputStream input = connection.getInputStream();
 
         // Get All Header Fields
@@ -21,10 +23,9 @@ public class HttpClient {
             System.out.println(connection.getHeaderField(i));
         }
 
-        // Print body
+        // Print body to writer using documentation commands
         int c;
         while ((c = input.read()) != -1) {
-            System.out.print((char) c);
             writer.write((char) c);
         }
     }
@@ -34,6 +35,7 @@ public class HttpClient {
             URL url = new URL(args[0]);
             BufferedWriter writer = new BufferedWriter(new FileWriter("HttpClientOutput.txt"));
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
 
             // Check for redirect
             if (connection.getResponseCode() == HttpURLConnection.HTTP_MOVED_TEMP) {
@@ -52,6 +54,7 @@ public class HttpClient {
                 connection = (HttpURLConnection) new URL(connection.getHeaderField("Location")).openConnection();
                 getHeadAndBody(connection, writer);
             } else {
+                System.out.println("Here");
                 getHeadAndBody(connection, writer);
             }
             writer.close();
