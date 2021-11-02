@@ -3,21 +3,29 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-
-public class GroupChatClient implements Runnable
-{
+/**
+ * This class is used to create a client that can connect to a server.
+ */
+public class GroupChatClient implements Runnable {
 
 	private BufferedReader fromUserReader;
 	private PrintWriter toSockWriter;
+	private static String name;
 
-	public GroupChatClient(BufferedReader reader, PrintWriter writer)
-	{
+	/**
+	 * This method is used to create a client that can connect to a server.
+	 * @param reader reader for client socket
+	 * @param writer write to server
+	 */
+	public GroupChatClient(BufferedReader reader, PrintWriter writer) {
 		fromUserReader = reader;
 		toSockWriter = writer;
 	}
 
-	public void run()
-	{
+	/**
+	 * This method is used to run the client.
+	 */
+	public void run() {
 		try {
 			while (true) {
 				String line = fromUserReader.readLine();
@@ -25,20 +33,23 @@ public class GroupChatClient implements Runnable
 				if (line == null)
 					break;
 
-				toSockWriter.println(line);
+				toSockWriter.println(name + " : " + line);
 			}
-		}
-		catch (Exception e) {
+		} catch (Exception e) {
 			System.out.println(e);
 			System.exit(1);
 		}
-		
+
 		System.exit(0);
 	}
 
-
-	public static void main(String args[])
-	{	
+	/**
+	 * This method is used to create a client that can connect to a server.
+	 * @param args[0] host name
+	 * @param args[1] port number
+	 * @param args[2] username
+	 */
+	public static void main(String args[]) {
 		if (args.length != 3) {
 			System.out.println("usage: java TwoWayAsyncMesgClient <host> <port> <name>");
 			System.exit(1);
@@ -46,12 +57,11 @@ public class GroupChatClient implements Runnable
 
 		// Connect to the server at the given host and port
 		Socket sock = null;
-		try {			
+		try {
 			sock = new Socket(args[0], Integer.parseInt(args[1]));
-			System.out.println(
-					"Connected to server at " + args[0] + ":" + args[1]);
-		}
-		catch(Exception e) {
+			System.out.println("Connected to server at " + args[0] + ":" + args[1]);
+			name = args[2];
+		} catch (Exception e) {
 			System.out.println(e);
 			System.exit(1);
 		}
@@ -59,19 +69,14 @@ public class GroupChatClient implements Runnable
 		// Set up a thread to read from user and write to socket
 		try {
 			// Prepare to write to socket with auto flush on
-			PrintWriter toSockWriter =
-					new PrintWriter(sock.getOutputStream(), true);
-			toSockWriter.println(args[2]);
+			PrintWriter toSockWriter = new PrintWriter(sock.getOutputStream(), true);
 			// Prepare to read from keyboard
-			BufferedReader fromUserReader = new BufferedReader(
-					new InputStreamReader(System.in));
+			BufferedReader fromUserReader = new BufferedReader(new InputStreamReader(System.in));
 
 			// Spawn a thread to read from user and write to socket
-			Thread child = new Thread(
-					new GroupChatClient(fromUserReader, toSockWriter));
+			Thread child = new Thread(new GroupChatClient(fromUserReader, toSockWriter));
 			child.start();
-		}
-		catch(Exception e) {
+		} catch (Exception e) {
 			System.out.println(e);
 			System.exit(1);
 		}
@@ -79,8 +84,7 @@ public class GroupChatClient implements Runnable
 		// Now read from socket and display to user
 		try {
 			// Prepare to read from socket
-			BufferedReader fromSockReader = new BufferedReader(
-					new InputStreamReader(sock.getInputStream()));
+			BufferedReader fromSockReader = new BufferedReader(new InputStreamReader(sock.getInputStream()));
 
 			// Keep doing till server is done
 			while (true) {
@@ -93,16 +97,15 @@ public class GroupChatClient implements Runnable
 					System.out.println("*** Server quit");
 					break;
 				}
-				
+
 				// Write the line to the user
-				System.out.println("Server: " + line);
+				System.out.println(line);
 			}
-		}
-		catch(Exception e) {
+		} catch (Exception e) {
 			System.out.println(e);
 			System.exit(1);
 		}
-		
+
 		// End the other thread too
 		System.exit(0);
 	}
