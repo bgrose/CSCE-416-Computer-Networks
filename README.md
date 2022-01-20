@@ -3,7 +3,7 @@ Code Written for Dr. Srihari Nelakuditi CSCE 416 class for Fall of 2021.
 
 **Code for Archival Purposes Only**
 
-**Grade: _ _ _**
+**Grade: A**
 
 Topics Covered: </br>
 • Demonstrate an understanding of the elements of a protocol and the concept of layering.</br>
@@ -14,4 +14,4 @@ Topics Covered: </br>
 
 
 
-*Developed in VSCode for JAVA*
+*Developed in VSCode for JAVA and WireShark*
